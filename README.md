@@ -1,7 +1,5 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+https://metislab.github.io/
 
 ## TODO:
 
 Add Chinese version.
-
-## TODO: Add personal pages to Professors, Students.
