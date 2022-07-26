@@ -25,7 +25,7 @@ interests:
   - Software-defined networking
   - Telematics
   - Graph algorithms
-  -  Reinforcement Learning
+  - Reinforcement Learning
 
 # Education to show in About widget
 education:

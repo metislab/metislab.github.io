@@ -28,10 +28,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: 博士
+    - course: Doctor
       institution: "Biological Engineering of University of Compiegne (Tutor: Dr. HAUPT Karsten, Fellow of lnstitut of France)"
       year: 2013–2017
-    - course: 硕士
+    - course: Master
       institution: Biological Engineering of University of Compiegne
       year: 2011–2013
     - course: Bachelor

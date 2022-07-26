@@ -1,40 +1,46 @@
 ---
 # Display name
-title: 孔素瑶
+title: DU Shuimiao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 上海大学中欧工程技术学院讲师
+role: Conférencier et Directeur de maîtrise de l'UTSEUS
 
 # Organizations/Affiliations to show in About widget
 
 organizations:
-  - name: Shanghai University
+  - name: Université de Shanghai
     url: https://www.shu.edu.cn/
+  - name: UTSEUS
+    url: https://utseus.shu.edu.cn/ 
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 上海大学中欧工程技术学院，讲师
+bio: Conférencier et Directeur de maîtrise de l'UTSEUS
 
 # Interests to show in About widget
 interests:
-  - 混合动力系统的自动控制
-
+  - Couplage de modèle numérique
+  - Analyse des perturbations et algorithmes de continuation
+  - Solution numérique des équations aux dérivées partielles elliptiques
 
 # Education to show in About widget
 education:
   courses:
-    - course: 博士
-      institution: "法国弗朗什孔泰大学（导师: Mickaël HILAIRET 教授）"
-      year: 2016–2020
-    - course: 硕士(工程师)
-      institution: 法国贝尔福-蒙贝利亚技术大学能源系（3+2工程师项目）
-      year: 2014–2016
-    - course: 学士
-      institution: 西北工业大学自动化学院
-      year: 2011–2014
+    - course: Docteur
+      institution: Mécanique du solide de l'Université de Beihang
+      year: 2014–2018
+    - course: Master
+      institution: Aéromécanique de l'École centrale Paris
+      year: 2013–2014
+    - course: Master
+      institution: Science de contrôle et d'ingénierie de l'Université de Beihang
+      year: 2012–2014
+    - course: Licence
+      institution: Mathématiques et Mathématiques Appliquées de l'Université de Beihang
+      year: 2008–2012
 
 
 
@@ -57,7 +63,7 @@ social:
   #   link: https://fr.linkedin.com/in/patrick-clarysse-84072a8/zh-cn?trk=people-guest_people_search-card
   - icon: ciencia-vitae
     icon_pack: ai
-    link: https://utseus.shu.edu.cn/info/1124/2284.htm
+    link: https://utseus.shu.edu.cn/info/1124/2175.htm
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -67,29 +73,33 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'dushuimiao@shu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 user_groups:
-- Members of MetisLab
+- Membres de MetisLab
 
 ---
 
-# 专业
-电气工程及其自动化
+# Spécialité
+Mécanique du solide
 
-# 近五年成果简介 Achievements in recent five years
+# Accomplissements au cours des cinq dernières années
 
-发表SCI学术论文1篇（在投2篇），国际会议论文2篇，法国国家会议论文1篇，参与法国国家科研项目1项，参加国际学术会议2次、学术讨论会及成果展示5次。
+2 articles académiques ont été publiés dans des revues SCI
 
-# 承担课程 Teaching
-- nnn
+# Cours
+ 
+- Outils mathématiques pour ingénieurs (Matière obligatoire de première année) 
+- Algèbre linéaire (Matière obligatoire de deuxième année)  
+- Analyse numérique (Matière obligatoire de troisième année)     
 
-# Working experience:
-   2019.09   至今 上海大学中欧工程技术学院，讲师<br><br>
+# Expérience professionnelle 
+   Depuis 2019.09   Conférencier de l'UTSEUS<br><br>
 
-## Contact information
 
-邮箱：suyaokong@shu.edu.cn
+## Coordonnées 
+
+E-mail: dushuimiao@shu.edu.cn

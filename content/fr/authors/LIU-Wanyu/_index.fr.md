@@ -6,43 +6,43 @@ title: LIU Wanyu
 superuser: true
 
 # Role/position/tagline
-role: Director of the UTSEUS (Shanghai University) / Chinese Director of Medical Image and Signal Processing Laboratory of French National Center for Scientific Research (CNRS) at CREATIS
+role: Directeur de l'UTSEUS / Directeur chinois du Laboratoire international "Image médicale et traitement du signal" de l'Académie des sciences
 
 # Organizations/Affiliations to show in About widget
 
 organizations:
-  - name: Shanghai University
+  - name: Université de Shanghai
     url: https://www.shu.edu.cn/
-  - name: UTSEUS of Shanghai University
+  - name: UTSEUS
     url: https://utseus.shu.edu.cn/ 
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: He has been a director of the UTSEUS since January 2018, and has worked in France (8 years) and then in China (16 years) and the industrial world in Canada (8 years).
+bio: Il est directeur de l'UTSEUS depuis janvier 2018, et a travaillé en France (8 ans) puis en Chine (16 ans) et dans le monde industriel au Canada (8 ans).
 
 # Interests to show in About widget
 interests:
-  - Medical image processing
-  - Machine vision
-  - Online detection technology
+  - Traitement d'image médicale 
+  - Vision industrielle
+  - Technologie de détection en ligne
 
 # Education to show in About widget
 education:
   courses:
-    - course: Postdoctoral
-      institution: Two and a half years postdoctoral research at CREATIS, France
+    - course: Postdoctorat
+      institution: Deux ans et demi de recherche postdoctorale connexe au CREATIS, France
       year: 1994-1996
-    - course: Doctor
-      institution: Image Processing of INSA, France
+    - course: Docteur
+      institution: Traitement de l'image de l'INSA 
       year: 1994
     - course: DEA
       institution: Institut national polytechnique de Toulouse
       year: 1989
     - course: Master
-      institution: Biomedical Engineering and Instrumentation of Shanghai Jiaotong University 
+      institution: Génie biomédical et instrumentation de l'Université Jiao-Tong de Shanghai
       year: 1998
-    - course: Bachelor
-      institution: Biomedical Engineering and Instrumentation of Shanghai Jiaotong University 
+    - course: Licence
+      institution: Génie biomédical et instrumentation de l'Université Jiao-Tong de Shanghai
       year: 1986
 
 # Social/Academic Networking
@@ -80,25 +80,25 @@ email: ''
 highlight_name: true
 
 user_groups:
-- Members of MetisLab
+- Membres de MetisLab
 
 ---
 
-# Achievements 
+# Accomplissements
 
-Holder of 12 patents, he has also published 49 journal articles and 38 conference articles in his field of research. He directed and supervised 20 theses and 31 master's students.
+Détenteur de 12 brevets, il a également publié 49 articles de revues et 38 articles de conférence dans son domaine de recherche. Il a dirigé et supervisé 20 thèses et 31 étudiants à la maîtrise.
 
-# Teaching
+# Cours
  
-- Signal analysis and processing (Compulsory courses for undergraduate majors)
+- Analyse et traitement des signaux (Matière obligatoire de premier cycle)
 
-- Enterprise's technological innovation (Compulsory courses for undergraduate majors)
+- Innovation technologique d'entreprise (Matière facultative de premier cycle)
 
-# Working experience:
-- Since 2004.9  Professor at Harbin Institute of Technology
-- 2001-2004     Senior researcher at the Institute of Industrial Technology in Quebec, Canada
-- 1997-2001     Senior Engineer of GIE High-Tech Company in Canada<br><br>
+# Expérience professionnelle
+- Depuis septembre 2004     Professeur à l'Institut de technologie de Harbin
+- De 2001 à 2004            Chercheur principal à l'Institut de technologie industrielle de Québec, Canada
+- De 1997 à 2001            Ingénieur senior de GIE High-Tech Company au Canada<br><br>
 
-## Contact information
+## Coordonnées
 
-Email: liuwanyu@shu.edu.cn
+E-mail: liuwanyu@shu.edu.cn

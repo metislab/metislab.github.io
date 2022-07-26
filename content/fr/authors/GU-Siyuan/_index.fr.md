@@ -1,22 +1,23 @@
 ---
 # Display name
-title: 顾思远
+title: GU Siyuan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 上海大学中欧工程技术学院硕士生
+role: Master de l'UTSEUS
 
 # Organizations/Affiliations to show in About widget
 
 organizations:
-  - name: Shanghai University
+  - name: Université de Shanghai
     url: https://www.shu.edu.cn/
-
+  - name: UTSEUS
+    url: https://utseus.shu.edu.cn/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 上海大学中欧工程技术学院硕士生
+bio: Master de l'UTSEUS
 
 # Interests to show in About widget
 interests:

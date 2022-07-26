@@ -1,28 +1,30 @@
 ---
 # Display name
-title: 刘子楠
+title: DONG Lele
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 上海大学中欧工程技术学院博士生
+role: Master de l'UTSEUS
 
 # Organizations/Affiliations to show in About widget
 
 organizations:
-  - name: Shanghai University
+  - name: Université de Shanghai
     url: https://www.shu.edu.cn/
+  - name: UTSEUS
+    url: https://utseus.shu.edu.cn/ 
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 上海大学中欧工程技术学院博士生
+bio: Master de l'UTSEUS
 
 # Interests to show in About widget
 interests:
-  - 111
-  - 222
-  - 333
+  - 444
+  - 555
+  - 666
 
 # Education to show in About widget
 education:
@@ -74,8 +76,8 @@ email: ''
 highlight_name: true
 
 user_groups:
-- Doctors
+- Masters
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Il forme les enquêtrices et les superviseurs de PMA2020 et assiste l'investigateur principal local (Professeur Kayembe) dans la conduite des études pilotes. Il a été chercheur principal dans plusieurs projets sur les infections respiratoires parrainés par les IRSC, dont le Réseau canadien de recherche sur le SRAS. On encourage les nouveaux chercheurs membres du corps professoral depuis moins de cinq ans à présenter une demande en tant que chercheur principal désigné.

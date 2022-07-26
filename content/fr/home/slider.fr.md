@@ -15,24 +15,24 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the UTSEUS&MetisLabs
-      content: Take a look at what we're working on...
+    - title: 👋 Bienvenue aux UTSEUS&MetisLabs
+      content: Jetez un coup d'œil à ce que nous sommes en train de faire...
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: utseus.png
-    - title: Talks & Communications ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Causeries et Communications ☕️
+      content: 'Partagez vos connaissances et explorez de nouveaux sujets passionnants avec nous!'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: metislab.png
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: Laboratoire de semi-conducteurs de classe mondiale
+      content: 'Il vient d’ouvrir le mois dernier!'
       align: right
       background:
         position: center
@@ -42,6 +42,6 @@ content:
       link:
         icon: icon.png
         icon_pack: media
-        text: Join Us
+        text: Rejoignez-nous
         url: https://www.metislabs.tech/
 ---

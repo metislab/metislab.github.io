@@ -6,40 +6,40 @@ title: Patrick Clarysse
 superuser: true
 
 # Role/position/tagline
-role: CNRS Researcher (section 7) at CREATIS, IEEE, SFGBM Member
+role: Chercheur CNRS (section 7) de CREATIS, Membre d'IEEE et de SFGBM
 
 # Organizations/Affiliations to show in About widget
 
 organizations:
 
-  - name: University of Lille 1 Sciences and Technology
+  - name: "Université Lille 1 : Sciences et Technologies, USTL"
     url: https://fr.linkedin.com/school/universite-de-lille/?trk=public_profile_topcard-school 
-  - name: Imaging of Heart-Vessels-Lungs team
+  - name: Première équipe Imagerie Cœur-Vaisseaux-Poumons
     url: https://www.creatis.insa-lyon.fr/site7/fr/icvp
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: "leader of Imaging of Heart-Vessels-Lungs team #1"
+bio: "Responsable de la première équipe Imagerie Cœur-Vaisseaux-Poumons"
 
 # Interests to show in About widget
 interests:
-  - Bioengineering and medical image analysis
-  - Medical image processing workflows
+  - Bioingénierie et analyse d'images médicales
+  - Workflows de traitement d'images médicales
   # - Multidimensional/multimodal image segmentation and registration
   # - Motion estimation and deformable models with applications to the 3D analysis of the heart functions
-  - Motion of thoracic structures
+  - Mouvement des structures thoraciques
 
 # Education to show in About widget
 education:
   courses:
-    - course: Researcher
-      institution: French National Center for Scientific Research (CNRS) at CREATIS, Lyon, France
-      year: since 1992
-    - course: PhD
-      institution: Scientific and Technological University of Lille, France
+    - course: Chercheur
+      institution: Centre National de la Recherche Scientifique (CNRS) en CREATIS, Lyon, France
+      year: 1992
+    - course: Docteur
+      institution: "Université Lille 1 : Sciences et Technologies, USTL, France"
       year: 1991
-    - course: MSc degree
-      institution: Scientific and Technological University of Lille, France
+    - course: MSc
+      institution: "Université Lille 1 : Sciences et Technologies, USTL, France"
       year: 1987
 
 # Social/Academic Networking
@@ -77,18 +77,19 @@ email: ''
 highlight_name: true
 
 user_groups:
-- Members of MetisLab
+- Membres de MetisLab
 
 ---
 
-I received a MSc degree in 1987 and a PhD in 1991 from the Scientific and Technological University of Lille, France. Since 1992, I am with the French National Center for Scientific Research (CNRS) at CREATIS, Lyon, France. My primary research interests are in the bioengineering and medical image analysis fields, and include medical image processing workflows, multidimensional/multimodal image segmentation and registration, motion estimation and deformable models with applications to the 3D analysis of the heart functions and the motion of thoracic structures.<br><br>
+J'ai obtenu une maîtrise en 1987 et un doctorat en 1991 de l'Université Scientifique et Technologique de Lille, France. Depuis 1992, je suis au Centre National de la Recherche Scientifique (CNRS) au CREATIS, Lyon, France. Mes principaux intérêts de recherche sont dans les domaines de la bio-ingénierie et de l'analyse d'images médicales, et incluent les workflows de traitement d'images médicales, la segmentation et l'enregistrement d'images multidimensionnelles/multimodales, l'estimation de mouvement et les modèles déformables avec des applications à l'analyse 3D des fonctions cardiaques et du mouvement des structures thoraciques.<br><br>
 
 
-## Contact information
+## Coordonnées
 
 CREATIS CNRS UMR 5220, Inserm U1044<br>
 INSA Batiment Blaise Pascal<br>
 7, Avenue Jean Capelle<br>
 F-69621 VILLEURBANNE cedex<br>
-Tel (Working Hours) : (+33) 04 72 43 81 48 E-mail : patrick.clarysse@creatis.insa-lyon.fr<br>
-Web page : http://www.creatis.insa-lyon.fr/~clarysse<br>
+Téléphone : (+33) 04 72 43 81 48<br>
+E-mail : patrick.clarysse@creatis.insa-lyon.fr<br>
+Page web : http://www.creatis.insa-lyon.fr/~clarysse<br>

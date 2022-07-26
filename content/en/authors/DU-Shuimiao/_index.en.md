@@ -6,7 +6,7 @@ title: DU Shuimiao
 superuser: true
 
 # Role/position/tagline
-role: Lecturer and  master's supervisor of UTSEUS
+role: Lecturer and master's supervisor of UTSEUS
 
 # Organizations/Affiliations to show in About widget
 
@@ -92,9 +92,9 @@ A total of 2 SCI academic papers have been published.
 
 # Teaching
  
-- Mathematic Tools for Engineer(Compulsory courses for freshman year)    
-- Linear Algebra(Compulsory courses for sophomore year)   
-- Numerical Analysis(Compulsory courses for junior year)    
+- Mathematic Tools for Engineer (Compulsory courses for freshman year)    
+- Linear Algebra (Compulsory courses for sophomore year)   
+- Numerical Analysis (Compulsory courses for junior year)    
 
 # Working experience
    Since 2019.09   Lecturer of UTSEUS<br><br>

@@ -1,41 +1,44 @@
 ---
 # Display name
-title: 董乐乐
+title: CHEN Lunde
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 上海大学中欧工程技术学院硕士生
+role: Conférencier de l'UTSEUS
 
 # Organizations/Affiliations to show in About widget
 
 organizations:
-  - name: Shanghai University
+  - name: Université de Shanghai
     url: https://www.shu.edu.cn/
+  - name: UTSEUS
+    url: https://utseus.shu.edu.cn/ 
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 上海大学中欧工程技术学院硕士生
+bio: Conférencier de l'UTSEUS
 
 # Interests to show in About widget
 interests:
-  - 444
-  - 555
-  - 666
+  - Réseau défini par logiciel
+  - Télématique
+  - Algorithmes de graphes
+  - Apprentissage par renforcement
 
 # Education to show in About widget
 education:
   courses:
-    # - course: 博士
-    #   institution: 图卢兹国立应用科技学院，计算机
-    #   year: 2015–2019
-    # - course: 硕士
-    #   institution: 北京航空航天大学，计算机技术
-    #   year: 2012–2015
-    # - course: 学士
-    #   institution: 北京航空航天大学，信息与计算科学
-    #   year: 2008–2012
+    - course: Docteur
+      institution: Informatique de l'INSA Toulouse
+      year: 2015–2019
+    - course: Master
+      institution: Technologies informatiques de l'Université de Beihang
+      year: 2012–2015
+    - course: Licence
+      institution: Information et Science informatique de l'Université de Beihang
+      year: 2008–2012
 
 
 
@@ -56,9 +59,9 @@ social:
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://fr.linkedin.com/in/patrick-clarysse-84072a8/zh-cn?trk=people-guest_people_search-card
-  # - icon: ciencia-vitae
-  #   icon_pack: ai
-  #   link: https://utseus.shu.edu.cn/info/1124/2171.htm
+  - icon: ciencia-vitae
+    icon_pack: ai
+    link: https://utseus.shu.edu.cn/info/1124/2171.htm
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -74,8 +77,26 @@ email: ''
 highlight_name: true
 
 user_groups:
-- Masters
+- Membres de MetisLab
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+# Spécialité 
+Informatique
+
+# Accomplissements au cours des cinq dernières années
+
+6 articles ont été publiés dans des revues SCI et des conférences de l'IE, et 4 présentations ont été faites dans des conférences universitaires internationales.
+
+# Cours
+ 
+- Introduction d'Algorithmes (Matière obligatoire de première année)
+- Algorithme et Programmation (Matière obligatoire de troisième année)
+- Apprentissage machine (Matière obligatoire de troisième année)
+
+# Expérience professionnelle
+   Depuis 2019.09  Conférencier de l'UTSEUS<br><br>
+
+## Coordonnées
+
+E-mail: lundechen@shu.edu.cn

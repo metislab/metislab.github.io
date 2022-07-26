@@ -1,44 +1,42 @@
 ---
 # Display name
-title: 杜水淼
+title: KONG Suyao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 上海大学中欧工程技术学院讲师、硕导
+role: Conférencier de l'UTSEUS
 
 # Organizations/Affiliations to show in About widget
 
 organizations:
-  - name: Shanghai University
+  - name: Université de Shanghai
     url: https://www.shu.edu.cn/
+  - name: UTSEUS
+    url: https://utseus.shu.edu.cn/ 
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 上海大学中欧工程技术学院，讲师
+bio: Conférencier de l'UTSEUS
 
 # Interests to show in About widget
 interests:
-  - 数值模型耦合
-  - 摄动分析与延续算法
-  - 椭圆型偏微分方程数值解
+  - Contrôle automatique du système hybride
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: 博士
-      institution: 巴黎中央理工学院，固体力学
-      year: 2014–2018
-    - course: 硕士
-      institution: 巴黎中央理工学院，航空力学
-      year: 2013–2014
-    - course: 硕士
-      institution: 北京航空航天大学，控制科学与工程
-      year: 2012–2014
-    - course: 学士
-      institution: 北京航空航天大学，数学与应用数学
-      year: 2008–2012
+    - course: Docteur
+      institution: "Université de Franche-Comté (Mentor: Professeur  Mickaël HILAIRET)"
+      year: 2016–2020
+    - course: Master (Ingénieur)
+      institution: Energie de l'Université de technologie de Belfort-Montbéliard (Programme Ingénieur 3+2)
+      year: 2014–2016
+    - course: Licence
+      institution: Faculté d'Automation de l'Université Polytechnique Nord-Ouest
+      year: 2011–2014
 
 
 
@@ -61,7 +59,7 @@ social:
   #   link: https://fr.linkedin.com/in/patrick-clarysse-84072a8/zh-cn?trk=people-guest_people_search-card
   - icon: ciencia-vitae
     icon_pack: ai
-    link: https://utseus.shu.edu.cn/info/1124/2175.htm
+    link: https://utseus.shu.edu.cn/info/1124/2284.htm
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -71,33 +69,29 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'dushuimiao@shu.edu.cn'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 user_groups:
-- Members of MetisLab
+- Membres de MetisLab
 
 ---
 
-# 专业
-固体力学
+# Spécialité
+Génie électrique et son automatisation
 
-# 近五年成果简介 Achievements in recent five years
+# Accomplissements au cours des cinq dernières années
 
-累计发表SCI学术论文2篇。
+A publié 1 article académique SCI (2 articles sont en cours de soumission), 2 articles de conférence internationale, 1 article de conférence nationale française, participé à 1 projet de recherche scientifique national français, participé à 2 conférences académiques internationales et 5 séminaires académiques et présentations de résultats.
 
-# 承担课程 Teaching
- 
-- 工程师数学工具（大一必修课）   
-- 线性代数（大二必修课）   
-- 工程师数值模拟（大二必修课）    
+# Cours
+- nnn
 
-# Working experience:
-   2019.09   至今 上海大学中欧工程技术学院，讲师<br><br>
+# Expérience professionnelle
+   Depuis 2019.09   Conférencier de l'UTSEUS<br><br>
 
+## Coordonnées
 
-## Contact information
-
-邮箱：dushuimiao@shu.edu.cn
+E-mail: suyaokong@shu.edu.cn

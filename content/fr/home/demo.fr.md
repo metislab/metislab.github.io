@@ -52,34 +52,34 @@ subtitle = "Sino CS labs"
 +++
 
 
-## 👋 Welcome to MetisLab
+## 👋 Bienvenue au MetisLab
 
-The joint computer science lab **MetisLab** is now open for all utseus students.
+Le laboratoire commun d'informatique **MetisLab** est maintenant ouvert à tous les étudiants de l'UTSEUS.
 
-[Check out the official website of UTSEUS](https://utseus.shu.edu.cn/) for more information.
+[Découvrir le site officiel de l'UTSEUS](https://utseus.shu.edu.cn/) pour plus d'informations.
 
-[**MetisLab**](https://www.metislabs.tech/) makes computer science within reach.
+[**MetisLab**](https://www.metislabs.tech/) met l'informatique à votre portée.
 
-- 👉 [**Get Started**](https://utseus.shu.edu.cn/)
-- 📚 [View the **documentation**](https://utseus.shu.edu.cn/)
-- 💬 [Chat with the **Professors**](https://utseus.shu.edu.cn/)
+- 👉 [**Commencer**](https://utseus.shu.edu.cn/)
+- 📚 [Voir la **documentation**](https://utseus.shu.edu.cn/)
+- 💬 [Chatter avec les **Professors**](https://utseus.shu.edu.cn/)
 - 🐦 Twitter: [@utseus](https://utseus.shu.edu.cn/)
-- 💡 [**Request a **feature** or report a **bug** for utseus**](https://utseus.shu.edu.cn/)
+- 💡 [**Demander un **feature** ou signaler un **bug** pour l'UTSEUS**](https://utseus.shu.edu.cn/)
 
-## Crowd-funded open-source CS lab
+## Laboratoire CS open source financé par la foule
 
-Some related info here.
+Quelques informations...
 
-### [❤️ Click here for more information](https://www.metislabs.tech/)
+### [❤️ Cliquez ici pour plus d'informations](https://www.metislabs.tech/)
 
-## You're looking at some info about MetisLab
+## Vous êtes en train de vous informer sur MetisLab
 
 {{% callout note %}}
-[About us](https://www.metislabs.tech/)
+[Qui sommes-nous](https://www.metislabs.tech/)
 
-**`Here is some info`.**
+**`Il y a des infos`.**
 {{% /callout %}}
 
-## Get inspired
+## Trouvez l'inspiration
 
-[Check out more info](https://www.metislabs.tech/).
+[Plus d'infos](https://www.metislabs.tech/).
