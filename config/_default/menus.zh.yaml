@@ -6,7 +6,7 @@
 main:
 
   - name: 实验室简介
-    url: '#demo'
+    url: '#'
     weight: 10
   - name: 中方负责人
     url: '#PIcn'

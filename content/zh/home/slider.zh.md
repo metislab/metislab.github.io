@@ -11,12 +11,12 @@ design:
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
-  interval: 4000
+  interval: 2000
 
 content:
   slides:
     - title: MetisLabs
-      content: 中法联合实验室（法国 INSA-Lyon，中国上海大学、哈工大、贵州大学、哈尔滨医科大学、中科院计算所。）
+      content: 中法联合实验室（法国 INSA-Lyon，中国上海大学、哈工大、哈尔滨医科大学）
       align: center
       background:
         position: center
