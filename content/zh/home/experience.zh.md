@@ -7,7 +7,7 @@ widget: experience
 headless: false
 
 # Order that this section appears on the page.
-weight: 42
+weight: 28
 
 title: 发展历程
 subtitle:

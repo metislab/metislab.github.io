@@ -5,12 +5,9 @@
 
 main:
 
-  - name: 医疗图像
+  - name: 实验室简介
     url: '#demo'
     weight: 10
-  - name: 人工智能
-    url: '#demo'
-    weight: 11
   - name: 中方负责人
     url: '#PIcn'
     weight: 14
@@ -26,10 +23,16 @@ main:
   - name: 我们的学生
     url: '#teamfr'
     weight: 25
+  - name: 发展历程
+    url: '#experience'
+    weight: 28
   - name: 承担项目
     url: '#projects'
     weight: 50
   - name: 代表论文
+    url: '#featured'
+    weight: 60
+  - name: 近期活动
     url: '#featured'
     weight: 60
 
