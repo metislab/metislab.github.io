@@ -5,31 +5,35 @@
 
 main:
 
-  - name: 主页
+  - name: 医疗图像
     url: '#demo'
     weight: 10
-  - name: 发表论文
-    url: '#posts'
-    weight: 30
-  - name: 有关项目
+  - name: 人工智能
+    url: '#demo'
+    weight: 11
+  - name: 中方负责人
+    url: '#PIcn'
+    weight: 14
+  - name: 法方负责人
+    url: '#PIfr'
+    weight: 15
+  - name: 中方团队
+    url: '#teamcn'
+    weight: 20
+  - name: 法方团队
+    url: '#teamfr'
+    weight: 22
+  - name: 我们的学生
+    url: '#teamfr'
+    weight: 25
+  - name: 承担项目
     url: '#projects'
-    weight: 40
-  - name: 聊聊近期与未来
-    url: '#talks'
     weight: 50
-  - name: 近期发表期刊
+  - name: 代表论文
     url: '#featured'
     weight: 60
-  - name: 联系我们
-    url: '#contact'
-    weight: 70
 
-  - name: 首席研究员
-    url: '#a-PI'
-    weight: 15
-  - name: 我们的团队
-    url: '#team'
-    weight: 20
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

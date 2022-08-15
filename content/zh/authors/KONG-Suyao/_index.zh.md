@@ -75,7 +75,11 @@ email: ''
 highlight_name: true
 
 user_groups:
-- MetisLab的成员
+- 上海大学
+- 哈尔滨工业大学
+- 贵州大学
+- 中科院计算所
+- 哈尔滨医科大学
 
 ---
 

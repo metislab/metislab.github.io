@@ -9,39 +9,34 @@ design:
   slide_height: ''
   is_fullscreen: true
   # Automatically transition through slides?
-  loop: false
+  loop: true
   # Duration of transition between slides (in ms)
-  interval: 2000
+  interval: 4000
 
 content:
   slides:
-    - title: 👋 欢迎来到 UTSEUS&MetisLabs
-      content: 欢迎参观我们的实验室
+    - title: MetisLabs
+      content: 中法联合实验室（法国 INSA-Lyon，中国上海大学、哈工大、贵州大学、哈尔滨医科大学、中科院计算所。）
       align: center
       background:
-        position: right
-        color: '#666'
-        brightness: 0.7
+        position: center
+        color: '#266'
+        brightness: 0.8
         media: utseus.png
-    - title: 聊天 & 交流 ☕️
-      content: 与我们分享您宝贵的经验
-      align: left
+    - title: 医疗图像处理 ️
+      content: MetisLab 致力于高效、准确的医疗图像处理，为人类健康做出贡献。
+      align: center
       background:
         position: center
-        color: '#555'
-        brightness: 0.7
-        media: metislab.png
-    - title: 世界顶尖中欧联合计算机实验室
-      content: '上月已开放'
-      align: right
+        color: '#266'
+        brightness: 0.8
+        media: medicalimaging.png
+    - title: 人工智能
+      content: MetisLab 致力于人工智能的基础研究，发展新时代的生产力。
+      align: center
       background:
         position: center
-        color: '#333'
-        brightness: 0.5
-        media: icon.png
-      link:
-        icon: icon.png
-        icon_pack: media
-        text: 加入我们
-        url: https://www.metislabs.tech/
+        color: '#266'
+        brightness: 0.8
+        media: ai.jpg
 ---

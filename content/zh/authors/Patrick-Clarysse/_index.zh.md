@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 
 user_groups:
-- MetisLab的成员
+- INSA-Lyon
  
 ---
 

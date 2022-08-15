@@ -6,7 +6,7 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "UTSEUS&MetisLabs"
@@ -50,36 +50,3 @@ subtitle = "中欧联合计算机实验室"
  # CSS class.
  css_class = ""
 +++
-
-
-## 👋 欢迎来到 MetisLab
-
-中欧联合计算机实验室 **MetisLab** 已对全体上海大学中欧工程技术学院学生开放。
-
-[点击查看中欧官网](https://utseus.shu.edu.cn/)
-
-[**MetisLab**](https://www.metislabs.tech/) 让计算机科学触手可及。
-
-- 👉 [**从这里开始**](https://utseus.shu.edu.cn/)
-- 📚 [参考 **相关论文**](https://utseus.shu.edu.cn/)
-- 💬 [与 **导师们**聊聊](https://utseus.shu.edu.cn/)
-- 🐦 Twitter: [@utseus](https://utseus.shu.edu.cn/)
-- 💡 [**我发现了bug！**](https://utseus.shu.edu.cn/)
-
-## 众筹开源的计算机实验室
-
-这里有一些相关信息。
-
-### [❤️ 点击查看更多](https://www.metislabs.tech/)
-
-## 您在寻找更多有关 MetisLab 的信息吗？
-
-{{% callout note %}}
-[关于我们](https://www.metislabs.tech/)
-
-**`这里有一些信息`.**
-{{% /callout %}}
-
-## 获得灵感
-
-[查看更多信息](https://www.metislabs.tech/).

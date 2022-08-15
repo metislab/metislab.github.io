@@ -6,7 +6,7 @@ title: 刘子楠
 superuser: true
 
 # Role/position/tagline
-role: 上海大学中欧工程技术学院博士生
+role: 上海大学中欧工程技术学院在读博士生
 
 # Organizations/Affiliations to show in About widget
 
@@ -18,7 +18,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 上海大学中欧工程技术学院博士生
+bio: 上海大学中欧工程技术学院在读博士生
 
 # Interests to show in About widget
 interests:
@@ -76,7 +76,8 @@ email: ''
 highlight_name: true
 
 user_groups:
-- 博士生
+- 在读博士生
+- 已毕业学生
 
 ---
 

@@ -4,12 +4,12 @@
 widget: experience
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
-weight: 40
+weight: 42
 
-title: 经验
+title: 发展历程
 subtitle:
 
 # Date format for experience
@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: "Leader of Imaging of Heart-Vessels-Lungs team #1"
-    company: GenCoin这边下面都妹改还
+  - title: "大使馆认证"
+    company: University X
     company_url: ''
     company_logo: org-gc
     location: California
@@ -35,8 +35,20 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-
-  - title: Professor of Semiconductor Physics
+  - title: "法国CNRS负责人访问"
+    company: University X
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+  - title: 实验室创建
     company: University X
     company_url: ''
     company_logo: org-x
