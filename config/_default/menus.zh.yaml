@@ -5,12 +5,6 @@
 
 main:
 
-  - name: 医疗图像
-    url: '#demo'
-    weight: 10
-  - name: 人工智能
-    url: '#demo'
-    weight: 11
   - name: 中方负责人
     url: '#PIcn'
     weight: 14
