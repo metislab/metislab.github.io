@@ -81,16 +81,4 @@ user_groups:
  
 ---
 
-
-我于1987年获得法国里尔科技大学硕士学位，1991年获得博士学位。自 1992 年以来，我在法国里昂 CREATIS 的法国国家科学研究中心 (CNRS) 工作。我的主要研究兴趣是生物工程和医学图像分析领域，包括医学图像处理工作流程、多维/多模态图像分割和配准、运动估计和可变形模型，并应用于心脏功能的 3D 分析和胸部结构的运动。<br><br>
-
-
-## 联系方式
-
-CREATIS CNRS UMR 5220, Inserm U1044<br>
-INSA Batiment Blaise Pascal<br>
-7, Avenue Jean Capelle<br>
-F-69621 VILLEURBANNE cedex<br>
-电话（工作时间）：(+33) 04 72 43 81 48<br>
-邮箱：patrick.clarysse@creatis.insa-lyon.fr<br>
-网页：http://www.creatis.insa-lyon.fr/~clarysse<br>
+于1987年获得法国里尔科技大学硕士学位，1991年获得博士学位。自 1992 年以来，在法国里昂 CREATIS 的法国国家科学研究中心 (CNRS) 工作。主要研究兴趣是生物工程和医学图像分析领域，包括医学图像处理工作流程、多维/多模态图像分割和配准、运动估计和可变形模型，并应用于心脏功能的 3D 分析和胸部结构的运动。
