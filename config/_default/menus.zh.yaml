@@ -21,7 +21,7 @@ main:
     url: '#teamfr'
     weight: 22
   - name: 我们的学生
-    url: '#teamfr'
+    url: '#teamstudents'
     weight: 25
   - name: 发展历程
     url: '#experience'
