@@ -1,7 +1,7 @@
 ---
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
+widget: aboutfuze
 
 # Activate this widget? true/false
 active: true
@@ -17,6 +17,6 @@ title: 负责人
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
-author1: LIU-Wanyu
-author2: Patrick-Clarysse
+author: LIU-Wanyu
+author: Patrick-Clarysse
 ---
