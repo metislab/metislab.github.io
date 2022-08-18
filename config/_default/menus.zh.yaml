@@ -1,0 +1,45 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+
+  - name: 实验室简介
+    url: '#'
+    weight: 10
+  - name: 负责人
+    url: '#PIcn'
+    weight: 14
+  #- name: 法方负责人
+  # url: '#PIfr'
+  #  weight: 15
+  - name: 中方团队
+    url: '#teamcn'
+    weight: 20
+  - name: 法方团队
+    url: '#teamfr'
+    weight: 22
+  - name: 我们的学生
+    url: '#teamfr'
+    weight: 25
+  - name: 发展历程
+    url: '#experience'
+    weight: 28
+  - name: 承担项目
+    url: '#projects'
+    weight: 50
+  - name: 代表论文
+    url: '#featured'
+    weight: 60
+  - name: 近期活动
+    url: '#featured'
+    weight: 60
+
+
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
