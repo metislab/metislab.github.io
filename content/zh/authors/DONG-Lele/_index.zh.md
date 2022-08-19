@@ -25,11 +25,10 @@ bio: 上海大学中欧工程技术学院在读硕士生
 interests:
   - 444
 profession:
-  - 计算机方向
+  - 计算机方向 
 
 professeur:
-  - 导师:陈伦德
-
+  - 导师:<a href="/zh/authors/chen-lunde/">陈伦德</a>
 # Education to show in About widget
 education:
   courses:
