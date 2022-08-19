@@ -8,6 +8,7 @@ superuser: true
 # Role/position/tagline
 role: 上海大学中欧工程技术学院在读硕士生
 
+
 # Organizations/Affiliations to show in About widget
 
 organizations:
@@ -23,8 +24,11 @@ bio: 上海大学中欧工程技术学院在读硕士生
 # Interests to show in About widget
 interests:
   - 444
-  - 555
-  - 666
+profession:
+  - 计算机方向
+
+professeur:
+  - 导师:陈伦德
 
 # Education to show in About widget
 education:

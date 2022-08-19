@@ -6,7 +6,7 @@ title: 'Dual Hyperquaternion Poincare Groups'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Patrick R. Girard 
-  - admin1
+  - Patrick-Clarysse
   - Romaric Pujol
   - Robert Goutte 
   - Philippe Delachartre 

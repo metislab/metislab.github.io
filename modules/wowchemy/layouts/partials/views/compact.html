@@ -28,7 +28,7 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<div class="media stream-item view-compact">
+<div class="">
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
@@ -78,7 +78,7 @@
     {{ with $resource }}
     {{ $image := .Resize "150x webp" }}
     <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
-      <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+      <img src="{{ $image.RelPermalink }}"  width=500
            alt="{{ $item.Title }}" loading="lazy">
     </a>
     {{end}}

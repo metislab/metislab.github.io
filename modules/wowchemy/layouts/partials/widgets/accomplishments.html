@@ -9,7 +9,7 @@
   {{ if $page.Params.item }}
   {{ range $idx, $key := sort $page.Params.item ".date_start" "desc" }}
     <div class="card experience course">
-      <div class="card-body">
+      <div class="">
         {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.svg" (replace (lower .organization) " " "_")) -}}
         {{- if $svg_icon }}
         <div class="d-flex align-content-start">

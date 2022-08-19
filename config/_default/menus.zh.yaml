@@ -8,12 +8,12 @@ main:
   - name: 实验室简介
     url: '#'
     weight: 10
-  - name: 中方负责人
+  - name: 负责人
     url: '#PIcn'
     weight: 14
-  - name: 法方负责人
-    url: '#PIfr'
-    weight: 15
+  #- name: 法方负责人
+  # url: '#PIfr'
+  #  weight: 15
   - name: 中方团队
     url: '#teamcn'
     weight: 20
@@ -21,7 +21,7 @@ main:
     url: '#teamfr'
     weight: 22
   - name: 我们的学生
-    url: '#teamfr'
+    url: '#teamstudents'
     weight: 25
   - name: 发展历程
     url: '#experience'

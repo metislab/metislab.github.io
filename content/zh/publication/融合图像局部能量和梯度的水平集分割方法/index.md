@@ -6,7 +6,7 @@ title: '融合图像局部能量和梯度的水平集分割方法'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - 包立君 
-  - admin2
+  - LIU-Wanyu
   - 浦昭邦
   
 

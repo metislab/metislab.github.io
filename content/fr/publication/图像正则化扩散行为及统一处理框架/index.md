@@ -7,7 +7,7 @@ title: '图像正则化扩散行为及统一处理框架'
 authors:
   - 苏伯超
   - 张晓华
-  - admin2
+  - LIU-Wanyu
   - 李莉 
   
 

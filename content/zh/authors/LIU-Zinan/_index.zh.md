@@ -25,7 +25,8 @@ interests:
   - 111
   - 222
   - 333
-
+profession:
+  - 计算机方向
 # Education to show in About widget
 education:
   courses:

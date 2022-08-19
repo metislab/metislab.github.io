@@ -5,7 +5,7 @@ title: '一种基于灵敏度分析的模态拟合参数辨识算法'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-  - admin3
+  - DU-Shuimiao
   
 
 # Author notes (optional)

@@ -1,5 +1,5 @@
 ---
-widget: people
+widget: students
 active: true
 headless: true  # This file represents a page section.
 weight: 25
@@ -16,6 +16,9 @@ content:
     - 已毕业学生
 
 design:
+  # Show user's profession? (true/false)
+  show_profession: true
+  show_professeur: true
   # Show user's social networking links? (true/false)
   show_social: false
   # Show user's interests? (true/false)
@@ -24,4 +27,6 @@ design:
   show_role: false
   # Show user's organizations/affiliations?
   show_organizations: false
+
+  
 ---
