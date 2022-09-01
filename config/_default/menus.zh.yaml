@@ -9,7 +9,7 @@ main:
     url: '#'
     weight: 10
   - name: 负责人
-    url: '#PIcn'
+    url: '#PI'
     weight: 14
   #- name: 法方负责人
   # url: '#PIfr'
