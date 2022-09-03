@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 帕特里克·克拉里斯
+title: Olivier Bernard
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: CREATIS的CNRS研究员(section 7), IEEE, SFGBM成员
@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 
 user_groups:
-- CNRS
+- INSA-Lyon
  
 ---
 
