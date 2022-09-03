@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 刘子楠
+title: 甘雨程
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: 上海大学中欧工程技术学院在读博士生
+role: 上海大学中欧工程技术学院在读硕士生
 
 # Organizations/Affiliations to show in About widget
 
@@ -18,19 +18,19 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 上海大学中欧工程技术学院在读博士生
+bio: 上海大学中欧工程技术学院在读硕士生
 
 # Interests to show in About widget
 interests:
-  - 111
-  - 222
-  - 333
-research_direction:
-  - 心脏成像
+  - 444
+  - 555
+  - 666
 
 supervisor:
-  - <a href="/zh/authors/liu-wanyu/">刘宛予</a>
+  - <a href="/zh/authors/liu-wanyu/">刘宛予</a>, <a href="/zh/authors/chen-lunde/">陈伦德</a>
 
+research_direction:
+  - 证据理论、强化学习
 # Education to show in About widget
 education:
   courses:
@@ -81,8 +81,7 @@ email: ''
 highlight_name: true
 
 user_groups:
-- 博士生
-- 已毕业学生
+- 硕士生
 
 ---
 

@@ -30,7 +30,7 @@ supervisor:
   - <a href="/zh/authors/liu-wanyu/">刘宛予</a>, <a href="/zh/authors/chen-lunde/">陈伦德</a>
 
 research_direction:
-  - 计算机方向
+  - 基于证据理论的机器学习
 # Education to show in About widget
 education:
   courses:
@@ -81,7 +81,7 @@ email: ''
 highlight_name: true
 
 user_groups:
-- 在读硕士生
+- 硕士生
 
 ---
 

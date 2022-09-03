@@ -11,9 +11,8 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - 在读博士生
-    - 在读硕士生
-    - 已毕业学生
+    - 博士生
+    - 硕士生
 
 design:
   # Show user's profession? (true/false)

@@ -5,15 +5,9 @@
 
 main:
 
-  - name: 实验室简介
-    url: '#'
-    weight: 10
   - name: 负责人
     url: '#PI'
     weight: 14
-  #- name: 法方负责人
-  # url: '#PIfr'
-  #  weight: 15
   - name: 中方团队
     url: '#teamcn'
     weight: 20
@@ -21,7 +15,7 @@ main:
     url: '#teamfr'
     weight: 22
   - name: 我们的学生
-    url: '#teamstudents'
+    url: '#students'
     weight: 25
   - name: 发展历程
     url: '#experience'
@@ -29,11 +23,8 @@ main:
   - name: 承担项目
     url: '#projects'
     weight: 50
-  - name: 代表论文
-    url: '#featured'
-    weight: 60
-  - name: 近期活动
-    url: '#featured'
+  - name: 发表论文
+    url: '#publications'
     weight: 60
 
 

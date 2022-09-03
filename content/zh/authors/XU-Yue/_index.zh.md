@@ -26,7 +26,7 @@ interests:
   - 222
   - 333
 research_direction:
-  - 计算机方向
+  - 医疗影像
 
 supervisor:
   - <a href="/zh/authors/liu-wanyu/">刘宛予</a>
@@ -81,7 +81,7 @@ email: ''
 highlight_name: true
 
 user_groups:
-- 在读博士生
+- 博士生
 - 已毕业学生
 
 ---

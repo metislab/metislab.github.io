@@ -25,7 +25,7 @@ bio: 上海大学中欧工程技术学院在读硕士生
 interests:
   - 444
 research_direction:
-  - 计算机方向 
+  - 基于证据理论的机器学习
 
 supervisor:
   - <a href="/zh/authors/du-shuimiao/">杜水淼</a>
@@ -80,7 +80,7 @@ email: ''
 highlight_name: true
 
 user_groups:
-- 在读硕士生
+- 硕士生
 
 ---
 
