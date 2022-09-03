@@ -58,7 +58,7 @@
       {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
       {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
       {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
-      {{ if and $show_research_direction .Params.research_direction }}<p class="people-research_direction">{{ delimit .Params.research_direction ", " | markdownify | emojify }}</p>{{ end }}
+      {{ if and $show_research_direction .Params.research_direction }}<p class="people-research_direction"> {{ delimit .Params.research_direction ", " | markdownify | emojify }}</p>{{ end }}
       {{ if and $show_supervisor .Params.supervisor }}<p class="people-supervisor"> 导师:   {{ delimit .Params.supervisor ", " | markdownify | emojify }}</p>{{ end }}
       
     
