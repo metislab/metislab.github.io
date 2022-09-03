@@ -3,7 +3,7 @@
 title: 董乐乐
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: 上海大学中欧工程技术学院在读硕士生
@@ -24,11 +24,12 @@ bio: 上海大学中欧工程技术学院在读硕士生
 # Interests to show in About widget
 interests:
   - 444
-profession:
+research_direction:
   - 计算机方向 
 
-professeur:
-  - 导师:<a href="/zh/authors/chen-lunde/">陈伦德</a>
+supervisor:
+  - <a href="/zh/authors/du-shuimiao/">杜水淼</a>
+  
 # Education to show in About widget
 education:
   courses:

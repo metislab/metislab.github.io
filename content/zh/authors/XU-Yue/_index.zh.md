@@ -3,7 +3,7 @@
 title: 许玥
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: 上海大学中欧工程技术学院在读博士生
@@ -25,8 +25,12 @@ interests:
   - 111
   - 222
   - 333
-profession:
+research_direction:
   - 计算机方向
+
+supervisor:
+  - <a href="/zh/authors/liu-wanyu/">刘宛予</a>
+
 # Education to show in About widget
 education:
   courses:

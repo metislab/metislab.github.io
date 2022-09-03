@@ -17,8 +17,8 @@ content:
 
 design:
   # Show user's profession? (true/false)
-  show_profession: true
-  show_professeur: true
+  show_research_direction: true
+  show_supervisor: true
   # Show user's social networking links? (true/false)
   show_social: false
   # Show user's interests? (true/false)

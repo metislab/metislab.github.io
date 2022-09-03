@@ -3,7 +3,7 @@
 title: 顾思远
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: 上海大学中欧工程技术学院在读硕士生
@@ -25,7 +25,11 @@ interests:
   - 444
   - 555
   - 666
-profession:
+
+supervisor:
+  - <a href="/zh/authors/liu-wanyu/">刘宛予</a>, <a href="/zh/authors/chen-lunde/">陈伦德</a>
+
+research_direction:
   - 计算机方向
 # Education to show in About widget
 education:
