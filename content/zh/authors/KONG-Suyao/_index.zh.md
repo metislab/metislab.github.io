@@ -75,11 +75,7 @@ email: ''
 highlight_name: true
 
 user_groups:
-- 上海大学
-- 哈尔滨工业大学
-- 贵州大学
-- 中科院计算所
-- 哈尔滨医科大学
+- UTSEUS(上海大学)
 
 ---
 
