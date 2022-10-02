@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 刘子楠
+title: 吴立群
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: 上海大学中欧工程技术学院在读博士生
+role: 上海大学中欧工程技术学院在读硕士生
 
 # Organizations/Affiliations to show in About widget
 
@@ -18,31 +18,29 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 上海大学中欧工程技术学院在读博士生
+bio: 上海大学中欧工程技术学院在读硕士生
 
 # Interests to show in About widget
 interests:
 - 医学图像处理
 - 机器学习
 - 证据理论
-research_direction:
-  - 心脏成像
 
 supervisor:
-  - <a href="/zh/authors/liu-wanyu/">刘宛予</a>
+  - <a href="/zh/authors/liu-wanyu/">刘宛予</a>, <a href="/zh/authors/chen-lunde/">陈伦德</a>
 
+research_direction:
+  - 基于证据理论的机器学习
 # Education to show in About widget
 education:
   courses:
-    # - course: 博士
-    #   institution: 上海大学
-    #   year: since 2020
-    # - course: 硕士
-    #   institution: 哈尔滨工业大学
-    #   year: 2017–2020
-    # - course: 学士
-    #   institution: 哈尔滨工业大学
-    #   year: 2013–2017
+- course: 硕士
+institution: 上海大学，电子信息
+year: since 2021
+- course: 学士
+institution: 上海大学 电子信息
+year: 2017–2021
+
 
 
 
@@ -75,15 +73,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'Lzn_learning@shu.edu.cn'
+email: 'wulichg@163.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 user_groups:
-- 博士生
-- 已毕业学生
+- 硕士生
 
 ---
 
-上海大学在读博士生
+上海大学在读研究生，研究基于证据理论的医学图像处理

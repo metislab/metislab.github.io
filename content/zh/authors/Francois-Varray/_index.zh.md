@@ -10,7 +10,7 @@ title: François Varray
 superuser: false
 
 # Role/position/tagline
-role: CREATIS的CNRS研究员(section 7), IEEE, SFGBM成员
+role: CREATIS的CNRS副教授
 
 # Organizations/Affiliations to show in About widget
 
@@ -23,28 +23,28 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 心肺血管图像组1领导人
+bio: 心肺血管图像组副教授
 
 # Interests to show in About widget
 interests:
-  - 生物工程和医学图像分析
-  - 医学图像处理工作流程
+  - 非线性超声传播模拟
+  - 非线性图像模拟、运动估计
+  - 心脏成像和光声成像
   # - Multidimensional/multimodal image segmentation and registration
   # - Motion estimation and deformable models with applications to the 3D analysis of the heart functions
-  - 胸部结构的运动
 
 # Education to show in About widget
 education:
   courses:
-    - course: 研究员
+    - course: 副教授
       institution: CREATIS 的法国国家科学研究中心 (CNRS)
-      year: since 1992
+      year: since 2013
     - course: 博士
-      institution: 法国里尔科学技术大学
-      year: 1991
+      institution: 里昂第一大学
+      year: 2011
     - course: 硕士
-      institution: 法国里尔科学技术大学
-      year: 1987
+      institution: 法国圣艾蒂安矿业学院
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -75,7 +75,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'francois.varray@creatis.insa-lyon.fr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -84,5 +84,4 @@ user_groups:
 - UCBL1
  
 ---
-
-于1987年获得法国里尔科技大学硕士学位，1991年获得博士学位。自 1992 年以来，在法国里昂 CREATIS 的法国国家科学研究中心 (CNRS) 工作。主要研究兴趣是生物工程和医学图像分析领域，包括医学图像处理工作流程、多维/多模态图像分割和配准、运动估计和可变形模型，并应用于心脏功能的 3D 分析和胸部结构的运动。
+于 2008 年在法国圣艾蒂安矿业学院获得了工程文凭，并获得了图像和信号处理硕士学位。 2011年10月，获得了里昂第一大学（法国）和佛罗伦萨大学（意大利）的联合博士学位。 自2013年9月起，任职Creatis的副教授。 专长涉及非线性超声传播模拟、非线性图像模拟、运动估计、心脏成像和光声成像。

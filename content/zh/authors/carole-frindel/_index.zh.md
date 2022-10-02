@@ -7,41 +7,39 @@ title: Carole FRINDEL
 superuser: false
 
 # Role/position/tagline
-role: CREATIS的CNRS研究员(section 7), IEEE, SFGBM成员
+role: INSA里昂工程学院和CREATIS实验室副教授
 
 # Organizations/Affiliations to show in About widget
 
 organizations:
 
-  - name: 里尔第一科技大学
-    url: https://fr.linkedin.com/school/universite-de-lille/?trk=public_profile_topcard-school 
+  - name: INSA里昂工程学院
+    url: https://www.insa-lyon.fr/
   - name: 心肺血管图像组1
     url: https://www.creatis.insa-lyon.fr/site7/fr/icvp
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 心肺血管图像组1领导人
+bio: CREATIS实验室副教授
 
 # Interests to show in About widget
 interests:
-  - 生物工程和医学图像分析
-  - 医学图像处理工作流程
-  # - Multidimensional/multimodal image segmentation and registration
-  # - Motion estimation and deformable models with applications to the 3D analysis of the heart functions
-  - 胸部结构的运动
+  - 低成本传感器在医学上的应用
+  - 生物学成像模拟
+  - 预测卒中的病变和临床结局
 
 # Education to show in About widget
 education:
   courses:
-    - course: 研究员
-      institution: CREATIS 的法国国家科学研究中心 (CNRS)
-      year: since 1992
+    - course: 副教授
+      institution: INSA里昂工程学院和CREATIS实验室
+      year: since 2011
     - course: 博士
-      institution: 法国里尔科学技术大学
-      year: 1991
+      institution: 国家应用科学研究所（里昂）
+      year: 2006-2009
     - course: 硕士
-      institution: 法国里尔科学技术大学
-      year: 1987
+      institution: 国家应用科学研究所（里昂）
+      year: 2001-2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -72,7 +70,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'carole.frindel@creatis.insa-lyon.fr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -81,5 +79,4 @@ user_groups:
 - INSA-Lyon
  
 ---
-
-于1987年获得法国里尔科技大学硕士学位，1991年获得博士学位。自 1992 年以来，在法国里昂 CREATIS 的法国国家科学研究中心 (CNRS) 工作。主要研究兴趣是生物工程和医学图像分析领域，包括医学图像处理工作流程、多维/多模态图像分割和配准、运动估计和可变形模型，并应用于心脏功能的 3D 分析和胸部结构的运动。
+法国INSA里昂工程学院和CREATIS实验室副教授

@@ -23,7 +23,9 @@ bio: 上海大学中欧工程技术学院在读硕士生
 
 # Interests to show in About widget
 interests:
-  - 444
+- 医学图像处理
+- 机器学习
+- 证据理论
 research_direction:
   - 基于证据理论的机器学习
 
@@ -33,15 +35,13 @@ supervisor:
 # Education to show in About widget
 education:
   courses:
-    # - course: 博士
-    #   institution: 图卢兹国立应用科技学院，计算机
-    #   year: 2015–2019
-    # - course: 硕士
-    #   institution: 北京航空航天大学，计算机技术
-    #   year: 2012–2015
-    # - course: 学士
-    #   institution: 北京航空航天大学，信息与计算科学
-    #   year: 2008–2012
+- course: 硕士
+institution: 上海大学，电子信息
+year: since 2022
+- course: 学士
+institution: 上海大学 机械工程
+year: 2019–2022
+
 
 
 
@@ -74,7 +74,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: '1697529763@qq.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -84,4 +84,5 @@ user_groups:
 
 ---
 
-嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨呀
+
+上海大学在读研究生，研究基于证据理论的医学图像处理
