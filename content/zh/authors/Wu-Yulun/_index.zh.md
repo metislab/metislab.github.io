@@ -26,7 +26,7 @@ interests:
 - 机器学习
 
 supervisor:
-  - <a href="/zh/authors/liu-wanyu/">刘宛予</a>, <a href="/zh/authors/chen-lunde/">陈伦德</a>
+  - <a href="/zh/authors/liu-wanyu/">刘宛予</a>
 
 research_direction:
   - 基于证据理论的机器学习
