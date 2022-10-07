@@ -9,41 +9,40 @@ title: 李萍
 superuser: false
 
 # Role/position/tagline
-role: CREATIS的CNRS研究员(section 7), IEEE, SFGBM成员
+role: 哈尔滨医科大学附属第二医院CT诊断科主任
 
 # Organizations/Affiliations to show in About widget
 
 organizations:
 
-  - name: 里尔第一科技大学
-    url: https://fr.linkedin.com/school/universite-de-lille/?trk=public_profile_topcard-school 
-  - name: 心肺血管图像组1
-    url: https://www.creatis.insa-lyon.fr/site7/fr/icvp
+  - name: 哈尔滨医科大学
+    url: https://www.hrbmu.edu.cn/
+  - name: 哈尔滨医科大学附属第二医院影像科
+    url: http://www.hrbmush.edu.cn/
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 心肺血管图像组1领导人
+bio: 哈尔滨医科大学附属第二医院CT诊断科主任
 
 # Interests to show in About widget
 interests:
-  - 生物工程和医学图像分析
   - 医学图像处理工作流程
+  - 肺结节影像多模态诊断与计算机辅助诊断
   # - Multidimensional/multimodal image segmentation and registration
   # - Motion estimation and deformable models with applications to the 3D analysis of the heart functions
-  - 胸部结构的运动
 
 # Education to show in About widget
 education:
   courses:
-    - course: 研究员
-      institution: CREATIS 的法国国家科学研究中心 (CNRS)
+    - course: 主任医生
+      institution: 哈尔滨医科大学附属第二医院影像科
       year: since 1992
     - course: 博士
-      institution: 法国里尔科学技术大学
-      year: 1991
+      institution: 天津医科大学影像医学专业
+      year: 2003
     - course: 硕士
-      institution: 法国里尔科学技术大学
-      year: 1987
+      institution: 哈尔滨医科大学影像医学专业
+      year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -84,4 +83,4 @@ user_groups:
  
 ---
 
-于1987年获得法国里尔科技大学硕士学位，1991年获得博士学位。自 1992 年以来，在法国里昂 CREATIS 的法国国家科学研究中心 (CNRS) 工作。主要研究兴趣是生物工程和医学图像分析领域，包括医学图像处理工作流程、多维/多模态图像分割和配准、运动估计和可变形模型，并应用于心脏功能的 3D 分析和胸部结构的运动。
+自1995年至哈尔滨医科大学附属第二医院影像科从事临床及科研工作至今，有丰富的影像学诊断经验和扎实的影像学诊断工作基础，能对各类复杂、疑难影像学资料做出准确、诊断。曾任哈尔滨医科大学附属第二医院CT诊断科副主任，现任PET/CT主任。现任哈尔滨市医疗事故鉴定专家。黑龙江省领军人才梯队后备带头人。中华医学会放射学分会胸组青年委员;黑龙江省放射学分会青年委员会副主任委员;中国研究型医学院学会感染与炎症放射学会专业委员会常委;中国研究型医学院学会肿瘤MDT专业委员会委员;黑龙江省核学会理事；黑龙江省核学会核医学分会理事；Journal of infectious disease, JRID编委等职务.现研究方向主要从事肺结节影像多模态诊断与计算机辅助诊断方面的研究。主持国家自然科学基金项目一项， 黑龙江省教育厅课题一项，哈尔滨市创新基金一项，省博士后启动基金一项。参加科技部国家科技计划重大专项和国家自然科学基金项目各一项，在国家核心期刊共发表论文二十余篇，SCI论文6篇，出版专著四本，包括副主编卫生部统编视听教材一部。获天津市05年科学技术成果奖及06年天津市政府科技进步二等奖1项。获省卫生厅新技术二等奖2项。获黑龙江省教育研究成果一等奖1项。

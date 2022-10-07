@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 丁广太
+title: 应时辉
 
 
 
@@ -9,41 +9,41 @@ title: 丁广太
 superuser: false
 
 # Role/position/tagline
-role: CREATIS的CNRS研究员(section 7), IEEE, SFGBM成员
+role: 上海大学理学院数学系教授
 
 # Organizations/Affiliations to show in About widget
 
 organizations:
 
-  - name: 里尔第一科技大学
-    url: https://fr.linkedin.com/school/universite-de-lille/?trk=public_profile_topcard-school 
-  - name: 心肺血管图像组1
-    url: https://www.creatis.insa-lyon.fr/site7/fr/icvp
+- name: 上海大学
+  url: https://www.shu.edu.cn/
+- name: 上海大学理学院
+  url: https://www.scicol.shu.edu.cn/
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 心肺血管图像组1领导人
+bio: 上海大学理学院数学系教授
 
 # Interests to show in About widget
 interests:
-  - 生物工程和医学图像分析
-  - 医学图像处理工作流程
+  - 医学影像处理
+  - 智能分析的数学理论与方法
+  - 反问题的几何理论
   # - Multidimensional/multimodal image segmentation and registration
   # - Motion estimation and deformable models with applications to the 3D analysis of the heart functions
-  - 胸部结构的运动
 
 # Education to show in About widget
 education:
   courses:
-    - course: 研究员
-      institution: CREATIS 的法国国家科学研究中心 (CNRS)
-      year: since 1992
+    - course: 教授
+      institution: 上海大学理学院数学系
+      year: since 2017
     - course: 博士
-      institution: 法国里尔科学技术大学
-      year: 1991
-    - course: 硕士
-      institution: 法国里尔科学技术大学
-      year: 1987
+      institution: 西安交通大学理学院数学系
+      year: 2002-2008
+    - course: 学士
+      institution: 西安交通大学机械工程学院
+      year: 1997-2001
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,7 +74,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'shying@shu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -83,5 +83,4 @@ user_groups:
 - 上海大学
  
 ---
-
-于1987年获得法国里尔科技大学硕士学位，1991年获得博士学位。自 1992 年以来，在法国里昂 CREATIS 的法国国家科学研究中心 (CNRS) 工作。主要研究兴趣是生物工程和医学图像分析领域，包括医学图像处理工作流程、多维/多模态图像分割和配准、运动估计和可变形模型，并应用于心脏功能的 3D 分析和胸部结构的运动。
+应时辉, 博士、上海大学数学系教授、博士生导师。主要从事医学影像处理与智能分析、机器学习的数学理论与方法方面研究。2001年和2008年在西安交通大学获得学士和博士学位，2012-2013年在美国北卡罗莱纳大学教堂山分校从事博士后研究。现任中国工业与应用数学学会医学与数学交叉委员会委员、中国运筹学会医疗运作管理分会理事。围绕流形上的反问题及其应用，建立基于流形约束优化的统一数学框架，形成配准与标准化问题表征的新理论与新方法。相应成果发表于NeuroImage、IEEE T-PAMI、IEEE T-NNLS、IEEE T-Cyber、Pattern Recognition等国际顶级期刊和CVPR、IJCAI等顶级会议中，成果被引1600余次。主持国家重点研发计划课题、国家自然科学基金和上海市科委重点项目多项。受邀担任多个SCI期刊客座编辑和著名国际会议TPC委员，在多个国内外重要学术会议的邀请和分组报告。

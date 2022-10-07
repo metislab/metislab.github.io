@@ -9,7 +9,7 @@ title: Isabelle E. Magnin
 superuser: false
 
 # Role/position/tagline
-role: CREATIS的CNRS研究员(section 7), IEEE, SFGBM成员
+role: CREATIS的CNRS研究员
 
 # Organizations/Affiliations to show in About widget
 
@@ -22,28 +22,29 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 心肺血管图像组1领导人
+bio: 心肺血管图像组研究员
 
 # Interests to show in About widget
 interests:
   - 生物工程和医学图像分析
   - 医学图像处理工作流程
+  - 可变形模型
   # - Multidimensional/multimodal image segmentation and registration
   # - Motion estimation and deformable models with applications to the 3D analysis of the heart functions
-  - 胸部结构的运动
+
 
 # Education to show in About widget
 education:
   courses:
     - course: 研究员
       institution: CREATIS 的法国国家科学研究中心 (CNRS)
-      year: since 1992
+      year: since 2014
     - course: 博士
-      institution: 法国里尔科学技术大学
-      year: 1991
-    - course: 硕士
-      institution: 法国里尔科学技术大学
+      institution: 里昂第一大学
       year: 1987
+    - course: 硕士
+      institution: 里昂第一大学
+      year: 1978
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,7 +75,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'http://www.creatis.insa-lyon.fr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -84,4 +85,4 @@ user_groups:
  
 ---
 
-于1987年获得法国里尔科技大学硕士学位，1991年获得博士学位。自 1992 年以来，在法国里昂 CREATIS 的法国国家科学研究中心 (CNRS) 工作。主要研究兴趣是生物工程和医学图像分析领域，包括医学图像处理工作流程、多维/多模态图像分割和配准、运动估计和可变形模型，并应用于心脏功能的 3D 分析和胸部结构的运动。
+CREATIS的CNRS研究员

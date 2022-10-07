@@ -10,7 +10,7 @@ title: Helene Ratiney
 superuser: false
 
 # Role/position/tagline
-role: CREATIS的CNRS研究员(section 7), IEEE, SFGBM成员
+role: CREATIS的CNRS研究员
 
 # Organizations/Affiliations to show in About widget
 
@@ -23,15 +23,15 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 心肺血管图像组1领导人
+bio: CNRS 研究科学家
 
 # Interests to show in About widget
 interests:
-  - 生物工程和医学图像分析
-  - 医学图像处理工作流程
+  - 体内 MRI/MRS 的最佳控制
+  - 量化方法
+  - X 核光谱和 k-t 空间采样
   # - Multidimensional/multimodal image segmentation and registration
   # - Motion estimation and deformable models with applications to the 3D analysis of the heart functions
-  - 胸部结构的运动
 
 # Education to show in About widget
 education:
@@ -40,11 +40,11 @@ education:
       institution: CREATIS 的法国国家科学研究中心 (CNRS)
       year: since 1992
     - course: 博士
-      institution: 法国里尔科学技术大学
-      year: 1991
+      institution: 里昂第一大学
+      year: 2004
     - course: 硕士
-      institution: 法国里尔科学技术大学
-      year: 1987
+      institution: 图卢兹国立理工学院
+      year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -75,7 +75,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'helene.ratiney@creatis.insa-lyon.fr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -85,4 +85,4 @@ user_groups:
  
 ---
 
-于1987年获得法国里尔科技大学硕士学位，1991年获得博士学位。自 1992 年以来，在法国里昂 CREATIS 的法国国家科学研究中心 (CNRS) 工作。主要研究兴趣是生物工程和医学图像分析领域，包括医学图像处理工作流程、多维/多模态图像分割和配准、运动估计和可变形模型，并应用于心脏功能的 3D 分析和胸部结构的运动。
+在法国图卢兹 ENSEEIHT 获得电气工程工程学位和理学硕士学位。 Hélène Ratiney 于 2001 年获得图卢兹国立理工学院信号处理学位（均于 2001 年获得），于 2004 年 10 月获得里昂第一大学“信号与图像”博士学位。她的博士项目致力于量化方法的开发用于体内光谱的一维 MRS 短回波时间（方法 QUEST）。在博士后职位（2005-2007，PI Daniel Pelletier）期间，她参与了在旧金山加州大学旧金山分校进行的一项纵向研究（EPIC/GeneMSA），该研究自 2004 年以来每年跟踪 500 名多发性硬化症患者，目的是捕捉控制疾病演变的变化和学习因素。她的主要贡献包括制定脑光谱成像数据的量化策略，以获取组织特异性（白质/灰质）生化信息：代谢物 T1、代谢物浓度。回到法国后，她一直在开发定量 MRI / MRS 的不同项目，其共同目标是使用优化方法来改进 MRI 或 MRS 数据的采集和处理，并在临床前或临床研究中对其进行测试

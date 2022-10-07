@@ -22,10 +22,9 @@ bio: 上海大学中欧工程技术学院在读硕士生
 
 # Interests to show in About widget
 interests:
-  - 444
-  - 555
-  - 666
-
+- 医学图像处理
+- 强化学习
+- 证据理论
 supervisor:
   - <a href="/zh/authors/liu-wanyu/">刘宛予</a>, <a href="/zh/authors/chen-lunde/">陈伦德</a>
 
@@ -34,15 +33,12 @@ research_direction:
 # Education to show in About widget
 education:
   courses:
-    # - course: 博士
-    #   institution: 图卢兹国立应用科技学院，计算机
-    #   year: 2015–2019
-    # - course: 硕士
-    #   institution: 北京航空航天大学，计算机技术
-    #   year: 2012–2015
-    # - course: 学士
-    #   institution: 北京航空航天大学，信息与计算科学
-    #   year: 2008–2012
+     - course: 硕士
+       institution: 上海大学，电子信息
+       year: since 2020
+     - course: 学士
+       institution: 上海大学 机械工程
+       year: 2016–2020
 
 
 
@@ -75,7 +71,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'tanxiaodong@shu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -84,5 +80,4 @@ user_groups:
 - 硕士生
 
 ---
-
-嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨呀
+上海大学在读研究生，研究深度强化学习解决无线虚拟网络资源分配问题。

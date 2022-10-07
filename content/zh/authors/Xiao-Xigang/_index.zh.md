@@ -10,28 +10,27 @@ title: 肖喜刚
 superuser: false
 
 # Role/position/tagline
-role: CREATIS的CNRS研究员(section 7), IEEE, SFGBM成员
+role: 哈尔滨医科大学附属第一医院影像教研室主任
 
 # Organizations/Affiliations to show in About widget
 
 organizations:
 
-  - name: 里尔第一科技大学
-    url: https://fr.linkedin.com/school/universite-de-lille/?trk=public_profile_topcard-school 
-  - name: 心肺血管图像组1
-    url: https://www.creatis.insa-lyon.fr/site7/fr/icvp
+- name: 哈尔滨医科大学
+  url: https://www.hrbmu.edu.cn/
+- name: 哈尔滨医科大学附属第二医院影像科
+  url: http://www.hrbmush.edu.cn/
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 心肺血管图像组1领导人
+bio: 哈尔滨医科大学附属第一医院影像教研室主任
 
 # Interests to show in About widget
 interests:
-  - 生物工程和医学图像分析
-  - 医学图像处理工作流程
+  - 心胸影像诊断
+  - 医学图像处理
   # - Multidimensional/multimodal image segmentation and registration
   # - Motion estimation and deformable models with applications to the 3D analysis of the heart functions
-  - 胸部结构的运动
 
 # Education to show in About widget
 education:
@@ -84,5 +83,4 @@ user_groups:
 - 哈尔滨医科大学
  
 ---
-
-于1987年获得法国里尔科技大学硕士学位，1991年获得博士学位。自 1992 年以来，在法国里昂 CREATIS 的法国国家科学研究中心 (CNRS) 工作。主要研究兴趣是生物工程和医学图像分析领域，包括医学图像处理工作流程、多维/多模态图像分割和配准、运动估计和可变形模型，并应用于心脏功能的 3D 分析和胸部结构的运动。
+哈尔滨医科大学附属第一医院影像教研室主任，CT室主任，主任医师，教授，博士，硕士研究生导师。

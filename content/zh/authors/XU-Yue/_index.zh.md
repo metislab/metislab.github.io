@@ -22,9 +22,9 @@ bio: 上海大学中欧工程技术学院在读博士生
 
 # Interests to show in About widget
 interests:
-  - 111
-  - 222
-  - 333
+  - 医学图像处理
+  - 机器学习
+  - 证据理论
 research_direction:
   - 医疗影像
 
@@ -34,16 +34,15 @@ supervisor:
 # Education to show in About widget
 education:
   courses:
-    # - course: 博士
-    #   institution: 图卢兹国立应用科技学院，计算机
-    #   year: 2015–2019
-    # - course: 硕士
-    #   institution: 北京航空航天大学，计算机技术
-    #   year: 2012–2015
-    # - course: 学士
-    #   institution: 北京航空航天大学，信息与计算科学
-    #   year: 2008–2012
-
+     - course: 博士
+       institution: 上海大学电子信息
+       year: 2021
+     - course: 硕士
+       institution: 重庆师范大学
+       year: 2017
+     - course: 学士
+       institution: 重庆理工大学
+       year: 2014
 
 
 # Social/Academic Networking
@@ -75,7 +74,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'xu_yue@shu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -85,5 +84,4 @@ user_groups:
 - 已毕业学生
 
 ---
-
-嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨嗨呀
+上海大学博士在读，研究医学图像领域。

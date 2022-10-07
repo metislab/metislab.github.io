@@ -9,41 +9,41 @@ title: 施俊
 superuser: false
 
 # Role/position/tagline
-role: CREATIS的CNRS研究员(section 7), IEEE, SFGBM成员
+role: 上海大学通信与信息工程学院副院长
 
 # Organizations/Affiliations to show in About widget
 
 organizations:
 
-  - name: 里尔第一科技大学
-    url: https://fr.linkedin.com/school/universite-de-lille/?trk=public_profile_topcard-school 
-  - name: 心肺血管图像组1
-    url: https://www.creatis.insa-lyon.fr/site7/fr/icvp
+- name: 上海大学
+  url: https://www.shu.edu.cn/
+- name: 上海大学通信与信息工程学院
+  url: https://www.scie.shu.edu.cn
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 心肺血管图像组1领导人
+bio: 上海大学通信与信息工程学院副院长
 
 # Interests to show in About widget
 interests:
-  - 生物工程和医学图像分析
-  - 医学图像处理工作流程
+  - 医学图像（超声图像、核磁共振成像等）分析
+  - 医学信号（脑电信号、肌电信号等）处理
+  - 康复工程
   # - Multidimensional/multimodal image segmentation and registration
   # - Motion estimation and deformable models with applications to the 3D analysis of the heart functions
-  - 胸部结构的运动
 
 # Education to show in About widget
 education:
   courses:
-    - course: 研究员
-      institution: CREATIS 的法国国家科学研究中心 (CNRS)
-      year: since 1992
+    - course: 教授
+      institution: 上海大学通信与信息工程学院
+      year: since 2005
     - course: 博士
-      institution: 法国里尔科学技术大学
-      year: 1991
-    - course: 硕士
-      institution: 法国里尔科学技术大学
-      year: 1987
+      institution: 中国科学技术大学
+      year: 2000-2005
+    - course: 学士
+      institution: 中国科学技术大学
+      year: 1996-2000
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,7 +74,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'junshi@shu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -84,4 +84,4 @@ user_groups:
  
 ---
 
-于1987年获得法国里尔科技大学硕士学位，1991年获得博士学位。自 1992 年以来，在法国里昂 CREATIS 的法国国家科学研究中心 (CNRS) 工作。主要研究兴趣是生物工程和医学图像分析领域，包括医学图像处理工作流程、多维/多模态图像分割和配准、运动估计和可变形模型，并应用于心脏功能的 3D 分析和胸部结构的运动。
+中国科学技术大学电子工程与信息科学系本硕博连读，美国北卡罗来纳大学教堂山分校访问学者，香港理工大学短期访问学者。曾任医学成像计算青年论坛（MICS）委员会轮值主席，为中国医学装备协会超声装备分会常务委员、中国信息协会医疗卫生和健康产业分会医学人工智能学组常务委员、中国影像AI产学研用创新联盟理事、上海生物医学工程学会人工智能专委会副主任委员、上海图象图形学学会医学影像专委会副主任等。

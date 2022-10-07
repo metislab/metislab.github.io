@@ -9,7 +9,7 @@ title: Bruno Montcel
 superuser: false
 
 # Role/position/tagline
-role: CREATIS的CNRS研究员(section 7), IEEE, SFGBM成员
+role: 里昂大学电气工程系和生物医学成像实验室 CREATIS 担任副教授
 
 # Organizations/Affiliations to show in About widget
 
@@ -22,28 +22,26 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 心肺血管图像组1领导人
+bio: 心肺血管图像组1副教授
 
 # Interests to show in About widget
 interests:
-  - 生物工程和医学图像分析
-  - 医学图像处理工作流程
-  # - Multidimensional/multimodal image segmentation and registration
-  # - Motion estimation and deformable models with applications to the 3D analysis of the heart functions
-  - 胸部结构的运动
+  - 医学成像
+  - 信号和图像处理
+  - 单像素成像和光谱计算机断层扫描
 
 # Education to show in About widget
 education:
   courses:
-    - course: 研究员
-      institution: CREATIS 的法国国家科学研究中心 (CNRS)
-      year: since 1992
+    - course: 副教授
+      institution: 里昂大学电气工程系和生物医学成像实验室
+      year: since 2014
     - course: 博士
-      institution: 法国里尔科学技术大学
-      year: 1991
+      institution: 里昂大学
+      year: 2009
     - course: 硕士
-      institution: 法国里尔科学技术大学
-      year: 1987
+      institution: 斯特拉斯堡大学
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,7 +72,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'bruno.montcel@univ-lyon1.fr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -83,5 +81,4 @@ user_groups:
 - UCBL1
  
 ---
-
-于1987年获得法国里尔科技大学硕士学位，1991年获得博士学位。自 1992 年以来，在法国里昂 CREATIS 的法国国家科学研究中心 (CNRS) 工作。主要研究兴趣是生物工程和医学图像分析领域，包括医学图像处理工作流程、多维/多模态图像分割和配准、运动估计和可变形模型，并应用于心脏功能的 3D 分析和胸部结构的运动。
+于 2006 年在法国斯特拉斯堡大学获得了电气工程硕士学位和生物医学工程硕士学位。于2009 年在里昂大学获得了电气工程博士学位，论文是关于时间分辨荧光分子断层扫描，荣获IEEE EMBS法国分会最佳论文奖。从 2009 年到 2012 年，在意大利米兰理工大学物理系从事博士后研究，研究用于漫射光学的结构光。 2013年加入了法国格勒诺布尔 CEA 的生物和医疗保健微技术部门，从事光谱 X 射线无损检测工作。自 2014 年以来，一直在里昂大学电气工程系和生物医学成像实验室 CREATIS担任副教授。
