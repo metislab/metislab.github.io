@@ -9,7 +9,7 @@ title: 李萍
 superuser: false
 
 # Role/position/tagline
-role: CREATIS的CNRS研究员(section 7), IEEE, SFGBM成员
+role: 哈尔滨医科大学附属第二医院CT诊断科主任
 
 # Organizations/Affiliations to show in About widget
 
