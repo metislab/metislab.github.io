@@ -34,12 +34,12 @@ research_direction:
 # Education to show in About widget
 education:
   courses:
-- course: 硕士
-institution: 上海大学，电子信息
-year: since 2020
-- course: 学士
-institution: 南京理工大学紫金学院
-year: 2016–2020
+    - course: 硕士
+      institution: 上海大学，电子信息
+      year: since 2020
+    - course: 学士
+      institution: 南京理工大学紫金学院
+      year: 2016–2020
 
 
 

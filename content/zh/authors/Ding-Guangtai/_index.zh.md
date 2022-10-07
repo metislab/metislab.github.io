@@ -11,7 +11,7 @@ title: 丁广太
 superuser: false
 
 # Role/position/tagline
-上海大学计算机工程与科学学院副教授
+role: 上海大学计算机工程与科学学院副教授
 
 # Organizations/Affiliations to show in About widget
 
@@ -24,7 +24,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-上海大学计算机工程与科学学院副教授
+bio: 上海大学计算机工程与科学学院副教授
 
 # Interests to show in About widget
 interests:

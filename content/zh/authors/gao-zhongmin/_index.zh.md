@@ -35,12 +35,12 @@ supervisor:
 # Education to show in About widget
 education:
   courses:
-- course: 硕士
-institution: 上海大学，电子信息
-year: since 2022
-- course: 学士
-institution: 上海大学 机械工程
-year: 2019–2022
+     - course: 硕士
+       institution: 上海大学，电子信息
+       year: since 2022
+     - course: 学士
+       institution: 上海大学 机械工程
+       year: 2019–2022
 
 
 

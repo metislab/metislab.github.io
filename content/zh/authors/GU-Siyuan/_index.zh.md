@@ -25,21 +25,21 @@ interests:
 - 医学图像处理
 - 机器学习
 - 证据理论
+research_direction:
+- 基于证据理论的机器学习
 
 supervisor:
   - <a href="/zh/authors/liu-wanyu/">刘宛予</a>, <a href="/zh/authors/chen-lunde/">陈伦德</a>
 
-research_direction:
-  - 基于证据理论的机器学习
 # Education to show in About widget
 education:
   courses:
-- course: 硕士
-institution: 上海大学，电子信息
-year: since 2021
-- course: 学士
-institution: 上海大学 信息工程
-year: 2017–2021
+     - course: 硕士
+       institution: 上海大学，电子信息
+       year: since 2021
+     - course: 学士
+       institution: 上海大学 信息工程 
+       year: 2017–2021
 
 
 

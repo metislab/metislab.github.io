@@ -33,16 +33,16 @@ supervisor:
 
 # Education to show in About widget
 education:
-courses:
-- course: 博士
-institution: 上海大学电子信息
-year: 2021
-- course: 硕士
-institution: 重庆师范大学
-year: 2017
-- course: 学士
-institution: 重庆理工大学
-year: 2014
+  courses:
+     - course: 博士
+       institution: 上海大学电子信息
+       year: 2021
+     - course: 硕士
+       institution: 重庆师范大学
+       year: 2017
+     - course: 学士
+       institution: 重庆理工大学
+       year: 2014
 
 
 # Social/Academic Networking
