@@ -3,7 +3,7 @@
 title: LIU Zinan
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Docteur de l'UTSEUS
@@ -21,9 +21,12 @@ bio: Docteur de l'UTSEUS
 
 # Interests to show in About widget
 interests:
-  - 111
-  - 222
-  - 333
+- Traitement des images médicales
+- Apprentissage automatique
+- Théorie de la preuve
+
+supervisor:
+  - <a href="/fr/authors/liu-wanyu/">Liu Wanyu</a>
 
 # Education to show in About widget
 education:
@@ -79,4 +82,4 @@ user_groups:
 
 ---
 
-Il forme les enquêtrices et les superviseurs de PMA2020 et assiste l'investigateur principal local (Professeur Kayembe) dans la conduite des études pilotes. Il a été chercheur principal dans plusieurs projets sur les infections respiratoires parrainés par les IRSC, dont le Réseau canadien de recherche sur le SRAS. On encourage les nouveaux chercheurs membres du corps professoral depuis moins de cinq ans à présenter une demande en tant que chercheur principal désigné.
+Actuellement étudiant en doctorat à l'université de Shanghai

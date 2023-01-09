@@ -1,5 +1,5 @@
 ---
-title: '一种基于灵敏度分析的模态拟合参数辨识算法'
+title: "Un algorithme basé sur l'analyse de sensibilité pour l'identification des paramètres d'ajustement de mode"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -26,13 +26,13 @@ publishDate: '2015-05-27T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *中国科技纵横*
+publication: In *Science et technologie en Chine*
 publication_short: In *CSTO*
 
-abstract: 非线性系统辨识是结构动力学的一项重要研究内容。在复杂的广域频率系统中，针对全部未知参数的可追踪性会随着系统自由度的增加而急剧衰减。为了解决此类问题，通常根据所研究系统的几何参数和动力学特性建立近似结构模型，然后应用模态校正法对近似模型的参数进行整定。对此，提出了一种基于灵敏度分析的模态拟合算法，综合了系统留数灵敏度分析和模态拟合灵敏度分析的优势，能够有效地处理具有强烈非线性参数影响的模态拟合问题。在某型号发动机护板模型参数辨识问题中进行了仿真应用，结果显示在中低频范围内该方法具有良好的应用效果。
+abstract: 非线性系统L'identification des systèmes non linéaires est un élément important de la recherche en dynamique des structures. Dans les systèmes complexes de fréquence à grande échelle, la traçabilité par rapport à l'ensemble des paramètres inconnus diminue fortement avec l'augmentation des degrés de liberté du système. Pour résoudre ces problèmes, un modèle structurel approximatif est généralement construit sur la base des paramètres géométriques et des propriétés dynamiques du système étudié, puis les paramètres du modèle approximatif sont rectifiés en appliquant une méthode de correction modale. À cet égard, un algorithme d'ajustement modal basé sur l'analyse de sensibilité est proposé, qui combine les avantages de l'analyse de sensibilité de la rétention du système et de l'analyse de sensibilité de l'ajustement modal et peut traiter efficacement les problèmes d'ajustement modal avec de forts effets de paramètres non linéaires. Des simulations sont effectuées dans le problème d'identification des paramètres d'un modèle de garde moteur, et les résultats montrent que la méthode a un bon effet d'application dans la gamme des basses et moyennes fréquences.
 
 # Summary. An optional shortened abstract.
-summary: 非线性系统辨识是结构动力学的一项重要研究内容。
+summary: L'identification des systèmes non linéaires est un élément important de la recherche en dynamique des structures.
 tags: []
 
 # Display this page in the Featured widget?

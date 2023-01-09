@@ -80,11 +80,11 @@ email: ''
 highlight_name: true
 
 user_groups:
-- Members of MetisLab
+- UTSEUS(SHU)
 
 ---
 
-# Achievements 
+# Head of the Chinese side
 
 Holder of 12 patents, he has also published 49 journal articles and 38 conference articles in his field of research. He directed and supervised 20 theses and 31 master's students.
 

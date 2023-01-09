@@ -1,13 +1,13 @@
 ---
-title: '融合图像局部能量和梯度的水平集分割方法'
+title: 'Level set segmentation method by fusing image local energy and gradient'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 包立君 
+  - BAO lijun
   - LIU-Wanyu
-  - 浦昭邦
+  - PU Zhaobang
   
 
 # Author notes (optional)
@@ -28,13 +28,14 @@ publishDate: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *哈尔滨工业大学学报*
+publication: In *Journal of Harbin Institute of Technology*
 publication_short: In *JHIT*
 
-abstract: 为了实现结构复杂的灰度不均匀图像的快速准确分割,提出一种融合局部能量和梯度敏感性的水平集方法,采用梯度敏感的能量函数改进局部能量最小化水平集方法,并利用灰度全局信息自动初始化水平集.局部能量函数由局部灰度拟合函数定义,是水平集的外部驱动能量,适用于分割灰度不均匀图像.梯度敏感项依据图像特性,自动判定对水平集的驱动方向,其外部能量函数能加速零水平集向目标边界的运动,内.部能量函数则推动零水平集离开平坦区域.该方法提高了水平集演化的速度和稳定性;通过调节水平集对不同强度边缘的敏感度,能够提取出弱边缘;而且不需要交互式操作.实验结果表明,该方法在分割灰度不均匀图像时,具有快速、准确和鲁棒性好的特点.
+abstract: In order to achieve fast and accurate segmentation of grayscale inhomogeneous images with complex structure, a level set method integrating local energy and gradient sensitivity is proposed, and the gradient-sensitive energy function is used to improve the local energy minimization level set method, and the level set is automatically initialized by using the grayscale global information. The local energy function is defined by the local gray scale fitting function, which is the external driving energy of the level set, and is suitable for segmenting gray scale inhomogeneous images. The gradient-sensitive term automatically determines the driving direction of the level set based on the image characteristics, and its external energy function accelerates the motion of the zero level set toward the target boundary, while the internal energy function drives the zero level set. The external energy function accelerates the zero level set toward the target boundary, while the internal energy function drives the zero level set away from the flat region. The method improves the speed and stability of level set evolution; it can extract weak edges by adjusting the sensitivity of level sets to different intensity edges; and it does not require interactive operation. The experimental results show that the method is fast, accurate and robust in segmenting grayscale inhomogeneous images.
 
 # Summary. An optional shortened abstract.
-summary: 为了实现结构复杂的灰度不均匀图像的快速准确分割,提出一种融合局部能量和梯度敏感性的水平集方法,采用梯度敏感的能量函数改进局部能量最小化水平集方法,并利用灰度全局信息自动初始化水平集.局部能量函数由局部灰度拟合函数定义,是水平集的外部驱动能量,适用于分割灰度不均匀图像.
+summary: In order to achieve fast and accurate segmentation of grayscale inhomogeneous images with complex structure, a level set method integrating local energy and gradient sensitivity is proposed, and the gradient-sensitive energy function is used to improve the local energy minimization level set method, and the level set is automatically initialized using the grayscale global information. The local energy function is defined by the local gray scale fitting function, which is the external driving energy of the level set, and is suitable for segmenting gray scale inhomogeneous images.
+
 tags: []
 
 # Display this page in the Featured widget?
