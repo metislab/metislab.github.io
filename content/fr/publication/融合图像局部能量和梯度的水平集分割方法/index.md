@@ -1,13 +1,13 @@
 ---
-title: '融合图像局部能量和梯度的水平集分割方法'
+title: "Une méthode de segmentation par ensembles de niveaux pour fusionner l'énergie locale et les gradients des images"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 包立君 
+  - BAO lijun
   - LIU-Wanyu
-  - 浦昭邦
+  - PU Zhaobang
   
 
 # Author notes (optional)
@@ -28,13 +28,14 @@ publishDate: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *哈尔滨工业大学学报*
+publication: In *Journal de l'Institut technologique de Harbin*
 publication_short: In *JHIT*
 
-abstract: 为了实现结构复杂的灰度不均匀图像的快速准确分割,提出一种融合局部能量和梯度敏感性的水平集方法,采用梯度敏感的能量函数改进局部能量最小化水平集方法,并利用灰度全局信息自动初始化水平集.局部能量函数由局部灰度拟合函数定义,是水平集的外部驱动能量,适用于分割灰度不均匀图像.梯度敏感项依据图像特性,自动判定对水平集的驱动方向,其外部能量函数能加速零水平集向目标边界的运动,内.部能量函数则推动零水平集离开平坦区域.该方法提高了水平集演化的速度和稳定性;通过调节水平集对不同强度边缘的敏感度,能够提取出弱边缘;而且不需要交互式操作.实验结果表明,该方法在分割灰度不均匀图像时,具有快速、准确和鲁棒性好的特点.
+abstract: La fonction d'énergie sensible au gradient est utilisée pour améliorer la méthode de minimisation de l'énergie locale, et l'information globale de l'échelle des gris est utilisée pour initialiser automatiquement l'ensemble des niveaux. La fonction d'énergie locale est définie par la fonction d'ajustement local de l'échelle de gris, qui est l'énergie motrice externe de l'ensemble de niveaux et convient à la segmentation d'images inhomogènes en échelle de gris. Le terme sensible au gradient détermine automatiquement la direction du jeu de niveaux en fonction des propriétés de l'image. La fonction d'énergie externe accélère l'ensemble du niveau zéro vers la frontière cible, tandis que la fonction d'énergie interne éloigne l'ensemble du niveau zéro de la région plate. La méthode améliore la vitesse et la stabilité de l'évolution de l'ensemble de niveaux ; elle peut extraire les bords faibles en ajustant la sensibilité de l'ensemble de niveaux aux bords d'intensité différente ; et elle ne nécessite pas d'opérations interactives. Les résultats expérimentaux montrent que la méthode est rapide, précise et robuste pour la segmentation des images inhomogènes en niveaux de gris.
 
 # Summary. An optional shortened abstract.
-summary: 为了实现结构复杂的灰度不均匀图像的快速准确分割,提出一种融合局部能量和梯度敏感性的水平集方法,采用梯度敏感的能量函数改进局部能量最小化水平集方法,并利用灰度全局信息自动初始化水平集.局部能量函数由局部灰度拟合函数定义,是水平集的外部驱动能量,适用于分割灰度不均匀图像.
+summary: La fonction d'énergie sensible au gradient est utilisée pour améliorer la méthode de minimisation de l'énergie locale, et l'information globale de l'échelle des gris est utilisée pour initialiser automatiquement l'ensemble des niveaux. La fonction d'énergie locale est définie par la fonction d'ajustement local de l'échelle de gris, qui est l'énergie motrice externe de l'ensemble de niveaux, et convient à la segmentation d'images inhomogènes en échelle de gris.
+
 tags: []
 
 # Display this page in the Featured widget?

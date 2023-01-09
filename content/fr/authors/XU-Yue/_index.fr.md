@@ -22,22 +22,28 @@ bio: Docteur de l'UTSEUS
 
 # Interests to show in About widget
 interests:
-  - 111
-  - 222
-  - 333
+  - Traitement des images médicales
+  - Apprentissage automatique
+  - Théorie de la preuve
+
+research_direction:
+  - Imagerie médicale
+
+supervisor:
+  - <a href="/fr/authors/liu-wanyu/">Liu Wanyu</a>
 
 # Education to show in About widget
 education:
   courses:
-    # - course: 博士
-    #   institution: 图卢兹国立应用科技学院，计算机
-    #   year: 2015–2019
-    # - course: 硕士
-    #   institution: 北京航空航天大学，计算机技术
-    #   year: 2012–2015
-    # - course: 学士
-    #   institution: 北京航空航天大学，信息与计算科学
-    #   year: 2008–2012
+    - course: Doctorat
+      institution: Information électronique de l'Université de Shanghai
+      year: 2021
+    - course: Master
+      institution: Université normale de Chongqing
+      year: 2017
+    - course: Bachelor
+      institution: Université de technologie de Chongqing
+      year: 2014
 
 
 

@@ -3,7 +3,7 @@
 title: GU Siyuan
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Master de l'UTSEUS
@@ -21,24 +21,25 @@ bio: Master de l'UTSEUS
 
 # Interests to show in About widget
 interests:
-  - 444
-  - 555
-  - 666
+  - Traitement des images médicales
+  - Apprentissage automatique
+  - Théorie de la preuve
 
 # Education to show in About widget
 education:
   courses:
-    # - course: 博士
-    #   institution: 图卢兹国立应用科技学院，计算机
-    #   year: 2015–2019
-    # - course: 硕士
-    #   institution: 北京航空航天大学，计算机技术
-    #   year: 2012–2015
-    # - course: 学士
-    #   institution: 北京航空航天大学，信息与计算科学
-    #   year: 2008–2012
+    - course: Master
+      institution: Université de Shanghai, Information électronique
+      year: depuis 2021
+    - course: Bachelor
+      institution: Université de Shanghai, Information électronique
+      year: 2017–2021
 
-
+research_direction:
+  - Théorie de l'apprentissage automatique fondée sur des données probantes
+  
+supervisor:
+  - <a href="/fr/authors/liu-wanyu/">Liu Wanyu</a>, <a href="/fr/authors/chen-lunde/">Chen Lunde</a>
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,7 +70,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'gu_siyuan123@163.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

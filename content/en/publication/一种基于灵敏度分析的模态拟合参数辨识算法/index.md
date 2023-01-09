@@ -1,5 +1,5 @@
 ---
-title: '一种基于灵敏度分析的模态拟合参数辨识算法'
+title: 'A sensitivity analysis-based mode-fitting parameter identification algorithm'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -26,13 +26,13 @@ publishDate: '2015-05-27T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *中国科技纵横*
+publication: In *China Science and Technology Column*
 publication_short: In *CSTO*
 
-abstract: 非线性系统辨识是结构动力学的一项重要研究内容。在复杂的广域频率系统中，针对全部未知参数的可追踪性会随着系统自由度的增加而急剧衰减。为了解决此类问题，通常根据所研究系统的几何参数和动力学特性建立近似结构模型，然后应用模态校正法对近似模型的参数进行整定。对此，提出了一种基于灵敏度分析的模态拟合算法，综合了系统留数灵敏度分析和模态拟合灵敏度分析的优势，能够有效地处理具有强烈非线性参数影响的模态拟合问题。在某型号发动机护板模型参数辨识问题中进行了仿真应用，结果显示在中低频范围内该方法具有良好的应用效果。
+abstract: Nonlinear system identification is an important research element in structural dynamics. In complex wide-area frequency systems, the traceability against all unknown parameters decays sharply with the increase of the system degrees of freedom. To solve such problems, an approximate structural model is usually established based on the geometrical parameters and dynamical properties of the studied system, and then the modal correction method is applied to rectify the parameters of the approximate model. In this regard, a modal fitting algorithm based on sensitivity analysis is proposed, which integrates the advantages of system retention sensitivity analysis and modal fitting sensitivity analysis and can effectively deal with the modal fitting problem with strong nonlinear parameter effects. The simulation application is carried out in a model engine guard model parameter identification problem, and the results show that the method has good application effect in the low and medium frequency range.
 
 # Summary. An optional shortened abstract.
-summary: 非线性系统辨识是结构动力学的一项重要研究内容。
+summary: Nonlinear system identification is an important research element in structural dynamics.
 tags: []
 
 # Display this page in the Featured widget?

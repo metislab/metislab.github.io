@@ -3,7 +3,7 @@
 title: LIU Zinan
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Doctor of UTSEUS
@@ -22,9 +22,12 @@ bio: Doctor of UTSEUS
 
 # Interests to show in About widget
 interests:
-  - 111
-  - 222
-  - 333
+- Medical Image Processing
+- Machine Learning
+- Evidence Theory
+
+supervisor:
+  - <a href="/en/authors/liu-wanyu/">Liu Wanyu</a>
 
 # Education to show in About widget
 education:
@@ -80,4 +83,4 @@ user_groups:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+PhD student in Shanghai University

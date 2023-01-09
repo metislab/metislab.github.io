@@ -77,10 +77,10 @@ email: ''
 highlight_name: true
 
 user_groups:
-- Membres de MetisLab
+- CNRS
 
 ---
-
+# Chef de la partie française
 J'ai obtenu une maîtrise en 1987 et un doctorat en 1991 de l'Université Scientifique et Technologique de Lille, France. Depuis 1992, je suis au Centre National de la Recherche Scientifique (CNRS) au CREATIS, Lyon, France. Mes principaux intérêts de recherche sont dans les domaines de la bio-ingénierie et de l'analyse d'images médicales, et incluent les workflows de traitement d'images médicales, la segmentation et l'enregistrement d'images multidimensionnelles/multimodales, l'estimation de mouvement et les modèles déformables avec des applications à l'analyse 3D des fonctions cardiaques et du mouvement des structures thoraciques.<br><br>
 
 

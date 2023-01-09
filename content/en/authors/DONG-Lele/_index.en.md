@@ -22,22 +22,19 @@ bio: Master of UTSEUS
 
 # Interests to show in About widget
 interests:
-  - 444
-  - 555
-  - 666
+  - Medical Image Processing
+  - Machine Learning
+  - Evidence Theory
 
 # Education to show in About widget
 education:
   courses:
-    # - course: 博士
-    #   institution: 图卢兹国立应用科技学院，计算机
-    #   year: 2015–2019
-    # - course: 硕士
-    #   institution: 北京航空航天大学，计算机技术
-    #   year: 2012–2015
-    # - course: 学士
-    #   institution: 北京航空航天大学，信息与计算科学
-    #   year: 2008–2012
+    - course: Master
+      institution: Shanghai University, Electronic Information
+      year: since 2021
+    - course: Bachelor
+      institution: Shanghai University Information Engineering 
+      year: 2017–2021
 
 
 

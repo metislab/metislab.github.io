@@ -79,7 +79,7 @@ email: 'dushuimiao@shu.edu.cn'
 highlight_name: true
 
 user_groups:
-- Membres de MetisLab
+- UTSEUS(SHU)
 
 ---
 
