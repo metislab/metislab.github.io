@@ -77,9 +77,10 @@ email: ''
 highlight_name: true
 
 user_groups:
-- Members of MetisLab
+- CNRS
 
 ---
+# Head of French side
 
 I received a MSc degree in 1987 and a PhD in 1991 from the Scientific and Technological University of Lille, France. Since 1992, I am with the French National Center for Scientific Research (CNRS) at CREATIS, Lyon, France. My primary research interests are in the bioengineering and medical image analysis fields, and include medical image processing workflows, multidimensional/multimodal image segmentation and registration, motion estimation and deformable models with applications to the 3D analysis of the heart functions and the motion of thoracic structures.<br><br>
 

@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 
 user_groups:
-- Members of MetisLab
+- UTSEUS(SHU)
 
 ---
 

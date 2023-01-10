@@ -1,14 +1,14 @@
 ---
-title: '图像正则化扩散行为及统一处理框架'
+title: 'Image regularization diffusion behavior and unified processing framework'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 苏伯超
-  - 张晓华
+  - SU Bochao
+  - Zhang Xiaohua
   - LIU-Wanyu
-  - 李莉 
+  - Li li
   
 
 # Author notes (optional)
@@ -29,13 +29,13 @@ publishDate: '2015-05-26T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *黑龙江大学自然科学学报*
+publication: In *Journal of Natural Sciences, Heilongjiang University*
 publication_short: In *JNSHU*
 
-abstract: PDE的图像正则化是一种基于扩散思想的非线性滤波方法,是解决降噪、伪影去除、结构增强等底层视觉问题的最有效方法之一,目前针对此类算法的统一分析框架还较为少见.基于3种典型PDE正则化算法的扩散行为,提出了一种基于扩散张量的图像正则化算法分析框架,对于此类算法的分析、开发和拓展具有重要意义,最后通过实验验证了框架的有效性.
+abstract: Image regularization of PDE is a nonlinear filtering method based on the idea of diffusion, which is one of the most effective methods to solve the underlying visual problems such as noise reduction, artifact removal, and structure enhancement, etc. A unified analysis framework for such algorithms is still rare. Based on the diffusion behavior of three typical PDE regularization algorithms, we propose a framework for analyzing image regularization algorithms based on the diffusion tensor, which is important for the analysis, development and extension of such algorithms, and finally verify the effectiveness of the framework through experiments.
 
 # Summary. An optional shortened abstract.
-summary: PDE的图像正则化是一种基于扩散思想的非线性滤波方法,是解决降噪、伪影去除、结构增强等底层视觉问题的最有效方法之一,目前针对此类算法的统一分析框架还较为少见.
+summary: Image regularization of PDE is a nonlinear filtering method based on the idea of diffusion, which is one of the most effective methods to solve the underlying visual problems such as noise reduction, artifact removal, and structure enhancement, etc. A unified analysis framework for such algorithms is still rare.
 tags: []
 
 # Display this page in the Featured widget?

@@ -80,11 +80,11 @@ email: ''
 highlight_name: true
 
 user_groups:
-- Membres de MetisLab
+- UTSEUS(SHU)
 
 ---
 
-# Accomplissements
+# Chef de la partie chinoise
 
 Détenteur de 12 brevets, il a également publié 49 articles de revues et 38 articles de conférence dans son domaine de recherche. Il a dirigé et supervisé 20 thèses et 31 étudiants à la maîtrise.
 

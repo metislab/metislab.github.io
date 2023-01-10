@@ -9,9 +9,9 @@ design:
   slide_height: ''
   is_fullscreen: true
   # Automatically transition through slides?
-  loop: false
+  loop: true
   # Duration of transition between slides (in ms)
-  interval: 2000
+  interval: 4000
 
 content:
   slides:
@@ -23,25 +23,20 @@ content:
         color: '#666'
         brightness: 0.7
         media: utseus.png
-    - title: Causeries et Communications ☕️
-      content: 'Partagez vos connaissances et explorez de nouveaux sujets passionnants avec nous!'
-      align: left
+    - title: Traitement des images médicales ️
+      content: MetisLab se consacre au traitement efficace et précis des images médicales afin de contribuer à la santé humaine.
+      align: center
       background:
         position: center
-        color: '#555'
-        brightness: 0.7
-        media: metislab.png
-    - title: Laboratoire de semi-conducteurs de classe mondiale
-      content: 'Il vient d’ouvrir le mois dernier!'
-      align: right
+        color: '#266'
+        brightness: 0.8
+        media: medicalimaging.png
+    - title: Intelligence artificielle
+      content: MetisLab est dédié à la recherche fondamentale en intelligence artificielle et au développement de la productivité pour une nouvelle ère.
+      align: center
       background:
         position: center
-        color: '#333'
-        brightness: 0.5
-        media: icon.png
-      link:
-        icon: icon.png
-        icon_pack: media
-        text: Rejoignez-nous
-        url: https://www.metislabs.tech/
+        color: '#266'
+        brightness: 0.8
+        media: ai.jpg
 ---

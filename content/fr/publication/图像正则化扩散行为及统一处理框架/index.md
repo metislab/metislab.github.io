@@ -1,14 +1,14 @@
 ---
-title: '图像正则化扩散行为及统一处理框架'
+title: "Comportement de diffusion de régularisation d'image et cadre de traitement unifié"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 苏伯超
-  - 张晓华
+  - SU Bochao
+  - Zhang Xiaohua
   - LIU-Wanyu
-  - 李莉 
+  - Li li
   
 
 # Author notes (optional)
@@ -29,13 +29,13 @@ publishDate: '2015-05-26T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *黑龙江大学自然科学学报*
+publication: In *Journal des sciences naturelles, Université de Heilongjiang*
 publication_short: In *JNSHU*
 
-abstract: PDE的图像正则化是一种基于扩散思想的非线性滤波方法,是解决降噪、伪影去除、结构增强等底层视觉问题的最有效方法之一,目前针对此类算法的统一分析框架还较为少见.基于3种典型PDE正则化算法的扩散行为,提出了一种基于扩散张量的图像正则化算法分析框架,对于此类算法的分析、开发和拓展具有重要意义,最后通过实验验证了框架的有效性.
+abstract: La régularisation d'image PDE est une méthode de filtrage non linéaire basée sur l'idée de diffusion, qui est l'une des méthodes les plus efficaces pour résoudre les problèmes visuels sous-jacents tels que la réduction du bruit, la suppression des artefacts et l'amélioration de la structure, etc. Un cadre d'analyse unifié pour ces algorithmes est encore rare. Sur la base du comportement de diffusion de trois algorithmes de régularisation PDE typiques, un cadre d'analyse des algorithmes de régularisation d'image basés sur le tenseur de diffusion est proposé, ce qui est important pour l'analyse, le développement et l'extension de ces algorithmes. Enfin, l'efficacité du cadre est vérifiée par des expériences.
 
 # Summary. An optional shortened abstract.
-summary: PDE的图像正则化是一种基于扩散思想的非线性滤波方法,是解决降噪、伪影去除、结构增强等底层视觉问题的最有效方法之一,目前针对此类算法的统一分析框架还较为少见.
+summary: La régularisation d'image par EDP est une méthode de filtrage non linéaire basée sur l'idée de diffusion, qui est l'une des méthodes les plus efficaces pour résoudre les problèmes visuels sous-jacents tels que la réduction du bruit, la suppression des artefacts et l'amélioration de la structure, et un cadre d'analyse unifié pour ces algorithmes est encore rare.
 tags: []
 
 # Display this page in the Featured widget?
